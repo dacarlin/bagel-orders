@@ -1,0 +1,247 @@
+########################################
+# Program: merger
+# Rundate: Tue 27 Oct 2015 14:24:22
+# Commandline: merger
+#    -asequence fwd_reads/e353a-1_T7_Plate_Plate01_C03.seq
+#    -bsequence rev_reads/e353a-1_T7term_Plate_Plate01_C03.seq
+#    -sreverse2
+#    -outfile out/e353a-1.merger
+#    -outseq out/e353a-1.fasta
+# Align_format: simple
+# Report_file: out/e353a-1.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: e353a-1_T7
+# 2: e353a-1_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2596
+# Identity:       1/2596 ( 0.0%)
+# Similarity:     0/2596 ( 0.0%)
+# Gaps:        2595/2596 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1570 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1521
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1520 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1471
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1470 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1421
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1420 nnnnnnnnnnnncnannnnnnnnnnncnnnnnnnncnnnnnnnnngnnnn   1371
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1370 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncnnnnnnnnnnannnnnnn   1321
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1320 nnnnntnnnnnnnnnnnnnnnngnnntcnnnngnnnnannnnnnnnnnnn   1271
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1270 nnnnnnnnnnnnnnnnnnntnnnnnnnnaanntnngggngggnnnnnnnn   1221
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1220 nnnnnnttnncnntnannnnnngnnnggnnnnnnnnngntttnnnntnnn   1171
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1170 nttnnnnnnnngncttgnnttnnnnncacnnnnnnnnnnnnnannggnct   1121
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1120 gcnnnttnnnncnnnnnnnnnnnnnaattgnctggnnngnntgattccga   1071
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1070 tgnngaccctgnnncattnggnnctgccgcagnggantgaagatgaaggc   1021
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter   1020 ggttggacccagcgtgaaaccattcagcatttcaaaacctatgccagcgt    971
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    970 tatcatggatcgttttggtgaacgtattaattggtggaacaccatcaatg    921
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    920 aaccgtattgtgcaagcattctgggttatgggccccggtgaacatgcacc    871
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    870 gggtcatgaaaattgggcnngaagcatttaccgcagcacatcatattctg    821
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    820 atgtgtcatggtattgcaagcaacctgcataaagaaaaaggtctgaccgg    771
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    770 taaaattggcattaccctgaatatggaacatgttgatgcagcaagcgaac    721
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    720 gtccggaagatgttgccgcagcaattcgtcgtgatggttttatcaatcgt    671
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    670 tggtttgcagaaccgctgttcaatggtaaatatcctgaagatatggtgga    621
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    620 atggtatggcacctatctgaatggtctggattttgttcagcctggtgata    571
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    570 tggaactgattcagcagccaggtgattttctgggcattaactattatacc    521
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    520 cgtagcattattcgcagcaccaatgatgcaagcctgctgcaagttgaaca    471
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    470 ggttcacatggaagaaccggttaccgatatgggttgggaaattcatccgg    421
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    420 aaagcttctataaactgctgacccgcattgaaaaagattttagcaaaggt    371
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    370 ctgccgatcctgattaccgcgaatggtgcagcaatgcgtgatgaactggt    321
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    320 taatggtcagatcgaagataccggtcgtcatggttatattgaagaacatc    271
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    270 tgaaagcctgccaccgctttatcgaagaaggtggccagctgaaaggttat    221
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    220 tttgtttggagctttctggataactttgaatgggcatggggttatagcaa    171
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    170 acgttttggtattgtccacatcaactatgaaacccaagaacgcaccccga    121
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter    120 aacagagcgcactgtggtttaaacaaatgatggccaaaaatggtttcggc     71
+
+e353a-1_T7         1 --------------------------------------------------      0
+                                                                       
+e353a-1_T7ter     70 agcctcgagcaccaccaccaccaccactgagatccggctgctaacaaagc     21
+
+e353a-1_T7         1 -------------------nnnnnnnnnnnnnnccnnnnnnnnnnnnntc     31
+                                                                       
+e353a-1_T7ter     20 ccgaangaagnngnnnnnnn------------------------------      1
+
+e353a-1_T7        32 cntctagaataattttgtttaactttaagaaggagatatacatatgagcg     81
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7        82 agaacacctttatctttccggcaacctttatgtggggcaccagcaccagc    131
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       132 agctatcagattgaaggtggcaccgatgaaggtggtcgtaccccgagcat    181
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       182 ttgggataccttttgtcagattccgggtaaagttattggtggtgattgtg    231
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       232 gtgatgttgcctgtgatcattttcaccactttaaagaagatgtgcagctg    281
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       282 anaanncacntnnggntttnntncattatcntttnagcgttgcatggcct    331
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       332 cgtattatgcctgcagcaggtattatcaatgaagagggtctgctgtttta    381
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       382 tgagcatctgctggatgaaattgaactggcaggtctgattccgatgctga    431
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       432 ccctgtatcattgggatctgccgcagtggattgaagatgaaggcggttgg    481
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       482 acccagcgtgaaaccattcagcatttcaaaacntntgccnagcgttatnn    531
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       532 gggnncgttnnggtgaacgtattaanngggnnaacccnntcatnnaaccg    581
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       582 tatnggncannnctnntgggtatgggccccnnnaanntgccccngnnnna    631
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       632 nnannnngnnnnnnanacatttaccggnccnnncnannttncgaaatggt    681
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       682 cngcgtattgcaacccacctggnnnnnnaaaanngnctcagacgggannn    731
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       732 ntgnnntnccccnncnnngggaaagtgttnnngnnnaggnnaanccccnn    781
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       782 aaaanttgccnnnnnactnnccccnggggggtttatnanccnnngggnnn    831
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       832 nnnnnnncnnncnnnntggggaaaattccccaaanngggnnnannnnngn    881
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       882 nnccnnnnncctnnngggcggnnnnnnttccncnggannannnnnnnnna    931
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       932 antaaanccnnngntngttnnnnnnnatnnnnaantnaacnnnncnaatt    981
+                                                                       
+e353a-1_T7ter      0 --------------------------------------------------      1
+
+e353a-1_T7       982 aatctacnncntaananngncncgnnnngnnttaaanttggattng   1027
+                                                                   
+e353a-1_T7ter      0 ----------------------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts:      e353a-1_T7  e353a-1_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

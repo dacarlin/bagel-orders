@@ -1,0 +1,239 @@
+########################################
+# Program: merger
+# Rundate: Tue 27 Oct 2015 14:24:27
+# Commandline: merger
+#    -asequence fwd_reads/w325k-3_T7_Plate_Plate01_G11.seq
+#    -bsequence rev_reads/w325k-3_T7term_Plate_Plate01_G11.seq
+#    -sreverse2
+#    -outfile out/w325k-3.merger
+#    -outseq out/w325k-3.fasta
+# Align_format: simple
+# Report_file: out/w325k-3.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: w325k-3_T7
+# 2: w325k-3_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2484
+# Identity:       1/2484 ( 0.0%)
+# Similarity:     0/2484 ( 0.0%)
+# Gaps:        2483/2484 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+w325k-3_T7         1 nnnnnnnnnnntnnnnctagannaattttgtttaactttaagaaggagat     50
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7        51 atacatatgagcgagaacacctttatctttccggcaacctttatgtgggg    100
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       101 caccagcaccagcagctatcagattgaaggtggcaccgatgaaggtggtc    150
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       151 gtaccccgagcatttgggataccttttgtcagattccgggtaaagttatt    200
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       201 ggtggtgattgtggtgatgttgcctgtgatcattttcaccactttaaaga    250
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       251 agatgtgcagctgatgaaacagctgggttttctgcattatcgttttagcg    300
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       301 ttgcatggcctcgtattatgcctgcagcaggtattatcaatgaagagggt    350
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       351 ctgctgttttatgagcatctgctggatgaaattgaactggcaggtctgat    400
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       401 tccgatgctgaccctgtatcattgggatctgccgcagtggattgaagatg    450
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       451 aaggcggttggacccagcgtgaaaccattcagcatttcaaaacctatgcc    500
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       501 agcgttatcatggatcgttttggtgaacgtattaattggtggaacaccat    550
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       551 caatgaaccgtattgtgcaagcattctgggttatggcaccggtgaacatg    600
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       601 caccgggtcatgaaaattggcgtgaagcatttaccgcagcacatcatatt    650
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       651 ctgatgtgtcatggtattgcaagcaacctgcataaagaaaaaggtctgac    700
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       701 cggtaaaattggcattaccctgaatatggaacatgttgatgcagcaagcg    750
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       751 aacgtccggaagatgttgccgcagcaattcgtcgtgatggttttatcaat    800
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       801 cgttggtttgcagaaccgctgttcaatggtaaatatcctgaagatatggt    850
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       851 ggaatggtatggcacctatctgaatggtctggattttgttcagcctggtg    900
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       901 nnnnggaanctgattcagcagcnnggtgatttnntggncattaactatta    950
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7       951 tacccgtagcattattcgcagcaccaatgatgcaagcctgctgcaagttg   1000
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1001 aacaggtnnnnatggaananccggnnncngattnggnnanggaatnnnnc   1050
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1051 cggaanntnctaaanctgctgaccnnnttgaaaaanttnaanaangnnnn   1100
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1101 cnnnccnnnnnnnnaannnnnnnnnantgcgtnnnannngnnnnnggcnn   1150
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1151 nnnaaannccgnccnnntgnnnnnnnnannntnnnnccnnccccntttnn   1200
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1201 aaanggncccnnaangntttntnngnncnnnnnnnnnnnngnnngnntnn   1250
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1251 nnaannttttngnnnccnnnnnnnnnncnnncnacnaannnnnnnnnnnn   1300
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1301 nnnnnnnnnnnnncnnnnnnnnnnngnaagcgcannnnnnnnnngtggnt   1350
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1351 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngnntnnnnnnnnnnnnt   1400
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1401 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1450
+                                                                       
+w325k-3_T7ter   1020 --------------------------------------------------   1021
+
+w325k-3_T7      1451 nnnnnnnnnnnnnnn-----------------------------------   1465
+                                                                       
+w325k-3_T7ter   1020 --------------nnnnnnnnnnnnnttatncnannnnnnnnnnnntcn    985
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    984 nnannnnnnnnnnnnnnnnnnncnnntnnatgnnnnnnnnnnnnnnnnnn    935
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    934 nnngtatnnnaaaacntncgannannannntgcnnnnnnnngaacgntnn    885
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    884 nngnntnnggctnacaggngnntnnnnanannggnnnnnnaanacgatca    835
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    834 cancnnnnncatcggagtgntnanntggtnntnggggcgngttangctng    785
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    784 gcnnnatnannnnnnganagantagnaagtncnnngnctgcaccntnnnn    735
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    734 tatgncacanacggatgagangcgtaaggaggcatcannnnatcgtnnaa    685
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    684 tnnnnntnttgntattntgntnnnntnntcnntggaaantcannnnntag    635
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    634 ttcatntattangcagnnntnngaaatngccnnaatccntcnnatatnnt    585
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    584 ttgtntngatcnngntggggntgattgaagttccagccagaccacgagtt    535
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    534 tantgcanagaacttnnncgtnanacgtagcagcgcngnccctcccatcc    485
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    484 ggggcncagtccatgaactgtaccatgacccaaatcctgttttntntagg    435
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    434 ngggnnaatnnttagcnnnaaatngcnaccataaagcccgcccccgaaaa    385
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    384 aaagattggcagngaaagccggcncntcnngaanggnaaaaanaagaaag    335
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    334 cgaaaggagngggcgttagggtnccgacaagtgtagccgtcctgcgggta    285
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    284 gtcaccacaccnccctccgagaacgcgcccctccncaggaagagtccntn    235
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    234 cnccnaaaagannnnttttttgttgggaagggatagaggcgggggtctgg    185
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    184 ccgntgtttccccancgggagaangggttttgtncnncaaggngnanagg    135
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter    134 nggnnacncccggannctccccgtcaggcggtttaaaaaaaagggcccna     85
+
+w325k-3_T7      1466 --------------------------------------------------   1465
+                                                                       
+w325k-3_T7ter     84 aattttattgggacccnttttnggnnnactccncccccnnaccnggggnn     35
+
+w325k-3_T7      1466 ----------------------------------   1465
+                                                       
+w325k-3_T7ter     34 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:      w325k-3_T7  w325k-3_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

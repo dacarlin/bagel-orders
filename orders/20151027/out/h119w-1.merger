@@ -1,0 +1,227 @@
+########################################
+# Program: merger
+# Rundate: Tue 27 Oct 2015 14:24:23
+# Commandline: merger
+#    -asequence fwd_reads/h119w-1_T7_Plate_Plate01_G04.seq
+#    -bsequence rev_reads/h119w-1_T7term_Plate_Plate01_G04.seq
+#    -sreverse2
+#    -outfile out/h119w-1.merger
+#    -outseq out/h119w-1.fasta
+# Align_format: simple
+# Report_file: out/h119w-1.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: h119w-1_T7
+# 2: h119w-1_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2340
+# Identity:       0/2340 ( 0.0%)
+# Similarity:     0/2340 ( 0.0%)
+# Gaps:        2339/2340 (100.0%)
+# Score: -2.0
+# 
+#
+#=======================================
+
+h119w-1_T7         1 agggggaaattttgcgacattccctctgaataattttgtttaactttaag     50
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7        51 aaggagatatacatatgagcgagaacacctttatctttccggcaaccttt    100
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       101 atgtggggcaccagcaccagcagctatcagattgaaggtggcaccgatga    150
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       151 aggtggtcgtaccccgagcatttgggataccttttgtcagattccgggta    200
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       201 aagttattggtggtgattgtggtgatgttgcctgtgatcattttcaccac    250
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       251 tttaaagaagatgtgcagctgatgaaacagctgggttttctgcattatcg    300
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       301 ttttagcgttgcatggcctcgtattatgcctgcagcaggtattatcattg    350
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       351 aagagggtctgctgttttatgagcatctgctggatgaaattgaactggca    400
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       401 tgtctttattccgatgctgaccctgtatagatgaggatctgccgcagtga    450
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       451 ttgaagatgaaggcggttggacccagcgtgaaacattcaacttttaaaac    500
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       501 ctattcccgcgttatcaagggaatcgtttttgggtgaaacgtatttaatt    550
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       551 tggggggaaacccccttccaatgaaacccgtattggggcaagccattttt    600
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       601 tgggggtttgggccccccgcataacactccccccccggtcgtgtgaagat    650
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       651 tgtggggggggggagctgtattccacccccgcaaaaatgacttttttttt    700
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       701 gtgttttttatctttttgaagcaccctcgatgctgcaaaaaaaaagaaca    750
+                                                                       
+h119w-1_T7ter   1549 --------------------------------------------------   1550
+
+h119w-1_T7       751 ggacagaagagggccgcctcgatatattcctcctggttctat--------    792
+                                                              .        
+h119w-1_T7ter   1549 -----------------------------------------nnnnnnnnn   1541
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1540 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1491
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1490 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1441
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1440 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngcnnnnnnnnnnnnaann   1391
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1390 nnnnnnttttnnnnnnnnnnnnnnnnnnnnnnnnnnnnngcnnnnnnnnn   1341
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1340 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnanannncnnn   1291
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1290 ngnnnnnnnnnnnnnnnnnnnnnncnnnnnncggnnaanntngggnnnnn   1241
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1240 gnnnnnnnnnnnnnnnntnnncccttnnaangnnnnnnnnnnnnnacnnn   1191
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1190 nnngnttnnnnnttnnnnttnnnnnnnnngccttnnnnnnnnnnnnnnnn   1141
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1140 ngtatannnnnnnnnnngnttgnnntttnnnnnnnntnnnngnnnaaann   1091
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1090 aantggnnngnntgattccgatnctgaccctgtattggtnggatctgccg   1041
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter   1040 cagtggattgaagatgaaggcggttggacccagcgtgaaaccattcagca    991
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    990 tttcnaaacntnnnnnannnntatcatggatcgttttggtgaacgtatta    941
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    940 attggtggaacaccatcaatgaaccgtattgtgcaagcattctgggttat    891
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    890 ggcaccggtgaacatgcaccgggtcatgaaaattggcgtgaagcatttac    841
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    840 cgcagcacatcatattctgatgtgtcatggtattgcaagcaacctgcata    791
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    790 aagaaaaaggtctgaccggtanaaaattggcattaccctgaatatggaac    741
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    740 atgttgatgcagcaagcgaacgtccggaagatgttgccgcagcaattcgt    691
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    690 cgtgatggttttatcaatcgttggtttgcagaaccgctgttcaatggtaa    641
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    640 atatcctgaagatatggtggaatggtatggcacctatctgaatggtctgg    591
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    590 attttgttcagcctggtgatatggaactgattcagcagccaggtgatttt    541
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    540 ctgggcattaactattatacccgtagcattattcgcagcaccaatgatgc    491
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    490 aagcctgctgcaagttgaacaggttcacatggaagaaccggttaccgata    441
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    440 tgggttgggaaattcatccggaaagcttctataaactgctgacccgcatt    391
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    390 gaaaaagattttagcaaaggtctgccgatcctgattaccgaaaatggtgc    341
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    340 agcaatgcgtgatgaactggttaatggtcagatcgaagataccggtcgtc    291
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    290 atggttatattgaagaacatctgaaagcctgccaccgctttatcgaagaa    241
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    240 ggtggccagctgaaaggttattttgtttggagctttctggataactttga    191
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    190 atgggcatggggttatagcaaacgttttggtattgtccacatcaactatg    141
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter    140 aaacccaagaacgcaccccgaaacagagcgcactgtggtttaaacaaatg     91
+
+h119w-1_T7       793 --------------------------------------------------    792
+                                                                       
+h119w-1_T7ter     90 atggccaaaaatggtttcggcagcctcgagcaccaccaccaccaccactg     41
+
+h119w-1_T7       793 ----------------------------------------    792
+                                                             
+h119w-1_T7ter     40 agatccggctgctaacaaagcccgnaagangngnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:      h119w-1_T7  h119w-1_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

@@ -1,0 +1,315 @@
+########################################
+# Program: merger
+# Rundate: Tue 27 Oct 2015 14:24:25
+# Commandline: merger
+#    -asequence fwd_reads/n220w-2_T7_Plate_Plate01_C08.seq
+#    -bsequence rev_reads/n220w-2_T7term_Plate_Plate01_C08.seq
+#    -sreverse2
+#    -outfile out/n220w-2.merger
+#    -outseq out/n220w-2.fasta
+# Align_format: simple
+# Report_file: out/n220w-2.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: n220w-2_T7
+# 2: n220w-2_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 3421
+# Identity:       1/3421 ( 0.0%)
+# Similarity:     0/3421 ( 0.0%)
+# Gaps:        3420/3421 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+n220w-2_T7         1 nnnnnnnnnnnnntccntctagnttanttttgtttatctttaagaaggaa     50
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7        51 atatacatatgagcgagaacacctttatctttccggcaacctttatgtgg    100
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       101 ggcaccagcaccagcagctatcagattgaaggtggcaccgatgaaggtgg    150
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       151 tcgtaccccgagcatttgggataccttttgtcagattccgggtaaagtta    200
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       201 ttggtggtgattgtggtgatgttgcctgtgatcattttcaccactttaaa    250
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       251 gaagatgtgcagctgatgaaacagctgggttttctgcattatncgtttta    300
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       301 gcgttgcatggcctcgtattatgcctgcagcaggtattatcaatgaagag    350
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       351 ggtctgctgttttatgnagcatctgctggantgaaattgaactggcaggt    400
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       401 ctgatntccgatgctgaccctgtatcattgggatcntgccgcagtggatt    450
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       451 gaagatgaaggcggttggacccagcgtgaaaccattcagcatttcaaaac    500
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       501 ctatgccagcgttatcatggatcgttttggtgaacgtattaattggntgg    550
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       551 aacaccatcaatgaaccgtattgtgcaagcattctgggttatggcaccgg    600
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       601 tgaacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcac    650
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       651 atcatattctgantgtgtcatggtattgcaagcaacctgcataaagaaaa    700
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       701 aggtcntgaccggtaaaattggcattaccctgagtntggaacatgttgat    750
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       751 gcagcaagcgaacgtcccgaaaaagttgcccccgnnnntattcgtcgtga    800
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       801 tggntttnaaccaatcgttggtttgcagaaccgctgttcaatggtaaata    850
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       851 tcctgaagatatggnnggaatggtatggnncctannntnnnnnnnnnnnn    900
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       901 nnnnttgtnnnggntggtgatatgnnanntganntnnnnnnnnaggtgat    950
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7       951 tttnnggnnattannnatnnntnnnngtnnnnttnatnnnnnnnnnaann   1000
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1001 tgaatgnaagnnngnnnnnaagttgannnggttnannnggaanaaanggn   1050
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1051 nnnnnnannnggnttgggnaattnnnnnngnaanntnnnnnaannngnnn   1100
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1101 nnnnnnanttgaaaaantttnnnnannnnnnnnnngnnntnnnnnnnnna   1150
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1151 angggnnnnnnnantnnnnnntnaangnnnnnnntnnnnnnnaannnnnn   1200
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1201 nnnnnnnnnntnnnnnanaannnnnnnnnnnnnnnnnnnnttnnnaaann   1250
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1251 ggnnnnnnnnnngnnntttnnngnnnnnnnnnnnnnnnnnnnnnnnnnnn   1300
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1301 tannnnnntnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntn   1350
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1351 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1400
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1401 nnnnnnnnnnnnnnnnnnnnnnnanntnnnnnnnnnnnnnnnnnnnnnnn   1450
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1451 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1500
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1501 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1550
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1551 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1600
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1601 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1650
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1651 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1700
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1701 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1750
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1751 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1800
+                                                                       
+n220w-2_T7ter   1603 --------------------------------------------------   1604
+
+n220w-2_T7      1801 nnnnnnnnnnnnnnnnnnn-------------------------------   1819
+                                                                       
+n220w-2_T7ter   1603 ------------------nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1572
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1571 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1522
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1521 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1472
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1471 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1422
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1421 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1372
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1371 nnnnnnnnnnannnnnnnnnnnnnnnnannannnnnnnnnaannnnnnnn   1322
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1321 nnaaannnnnnnnnnnnnnnnnnnnnncnnnnnnnnnnnnnnnnnnnnnn   1272
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1271 nnnngtnnnnnnnnnnnnnnnnnnnnnnnnnnnnaantnggggnnngggn   1222
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1221 nnnnnnnnnnnnnccnnnaannnnnnngaannnnnnaaangggnttttnc   1172
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1171 nnnnnnnntnnnnnnnnnccntnnnnnnnnnnnnnnnnnnnnnnnannan   1122
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1121 aggnttgnnnnttnnnnnnnnnnnnngnnnnaatgaannnncnngnnnga   1072
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1071 ttccgatnnnnaccctgtatcattggnnctgccgcnnngnnngaagatga   1022
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter   1021 aggcggttggacccagcgtgaaaccattcagcanttnaaacctatgccag    972
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    971 cgttatcatggatcgntttggtgnannnnttaatcnnnnnnnnncctnnn    922
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    921 annnnccggtattgtgcaagcattctgggttatggcaccggtgaacatgc    872
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    871 accgggtcatgaaaattggcgtgaagcatttaccgcagcacatcatattc    822
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    821 tgatgtgtcatggtattgcaagcaacctgcataaagaaaaaggtctgacc    772
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    771 ggtaaaattggcattaccctgaatatggaacatgttgatgcagcaagcga    722
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    721 acgtccggaagatgttgccgcagcaattcgtcgtgatggttttatcaatc    672
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    671 gttggtttgcagaaccgctgttcaatggtaaatatcctgaagatatggtg    622
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    621 gaatggtatggcacctatctgaatggtctggattttgttcagcctggtga    572
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    571 tatggaactgattcagcagccaggtgattttctgggcattaactattata    522
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    521 cccgtagcattattcgcagcaccaatgatgcaagcctgctgcaagttgaa    472
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    471 caggttcacatggaagaaccggttaccgatatgggttgggaaattcatcc    422
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    421 ggaaagcttctataaactgctgacccgcattgaaaaagattttagcaaag    372
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    371 gtctgccgatcctgattaccgaaaatggtgcagcaatgcgtgatgaactg    322
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    321 gttaatggtcagatcgaagataccggtcgtcatggttatattgaagaaca    272
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    271 tctgaaagcctgccaccgctttatcgaagaaggtggccagctgaaaggtt    222
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    221 attttgtttggagctttctggataactttgaatgggcatggggttatagc    172
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    171 aaacgttttggtattgtccacatcaactatgaaacccaagaacgcacccc    122
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter    121 gaaacagagcgcactgtggtttaaacaaatgatggccaaaaatggtttcg     72
+
+n220w-2_T7      1820 --------------------------------------------------   1819
+                                                                       
+n220w-2_T7ter     71 gcagcctcgagcaccaccaccaccaccactgagatccggctgctaacaaa     22
+
+n220w-2_T7      1820 ---------------------   1819
+                                          
+n220w-2_T7ter     21 gcccgaangnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:      n220w-2_T7  n220w-2_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

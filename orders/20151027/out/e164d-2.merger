@@ -1,0 +1,235 @@
+########################################
+# Program: merger
+# Rundate: Tue 27 Oct 2015 14:24:22
+# Commandline: merger
+#    -asequence fwd_reads/e164d-2_T7_Plate_Plate01_C02.seq
+#    -bsequence rev_reads/e164d-2_T7term_Plate_Plate01_C02.seq
+#    -sreverse2
+#    -outfile out/e164d-2.merger
+#    -outseq out/e164d-2.fasta
+# Align_format: simple
+# Report_file: out/e164d-2.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: e164d-2_T7
+# 2: e164d-2_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2439
+# Identity:       1/2439 ( 0.0%)
+# Similarity:     0/2439 ( 0.0%)
+# Gaps:        2438/2439 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1512 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1463
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1462 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1413
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1412 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnannnnnnccnnnnnnn   1363
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1362 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntnnn   1313
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1312 nntnnnnnnannccnnnnnntnnnnnnnnnnnnnnnnnnnnnnnnnnnnn   1263
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1262 nnannntnnntncggnaaannnnnggnnnnnnnnnnnnnnnnnnnnttnc   1213
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1212 nnnttnnaagnnnnnnnnnnnnnannnnnggntttnnnnnnnnnttnnnn   1163
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1162 nnnnngccnnnnnnnnnnngcancnngnnnnnnannnnnnggtttgnnnn   1113
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1112 ttnnnnnnnnntnnnngnnnnaatgaannggcagntnngantccgatgct   1063
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1062 gacccnnnnncantgganctgccgcagtggatgaagatgaaggcggttgg   1013
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter   1012 acccagcgtgaaaccattcagcatttcnaaacctatgccagcgttatcat    963
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    962 ggatcgttttggtgaacgtattaattggtggaacaccatcaatgatccgt    913
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    912 attgtgcaagcattctgggttatggcaccggtgaacatgcaccgggtcat    863
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    862 gaaaattggcgtgaagcatttaccgcagcacatcatattctgatgtgtca    813
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    812 tggtattgcaagcaacctgcataaagaaaaaggtctgaccggtaaaattg    763
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    762 gcattaccctgaatatggaacatgttgatgcagcaagcgaacgtccggaa    713
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    712 gatgttgccgcagcaattcgtcgtgatggttttatcaatcgttggtttgc    663
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    662 agaaccgctgttcaatggtaaatatcctgaagatatggtggaatggtatg    613
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    612 gcacctatctgaatggtctggattttgttcagcctggtgatatggaactg    563
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    562 attcagcagccaggtgattttctgggcattaactattatacccgtagcat    513
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    512 tattcgcagcaccaatgatgcaagcctgctgcaagttgaacaggttcaca    463
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    462 tggaagaaccggttaccgatatgggttgggaaattcatccggaaagcttc    413
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    412 tataaactgctgacccgcattgaaaaagattttagcaaaggtctgccgat    363
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    362 cctgattaccgaaaatggtgcagcaatgcgtgatgaactggttaatggtc    313
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    312 agatcgaagataccggtcgtcatggttatattgaagaacatctgaaagcc    263
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    262 tgccaccgctttatcgaagaaggtggccagctgaaaggttattttgtttg    213
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    212 gagctttctggataactttgaatgggcatggggttatagcaaacgttttg    163
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    162 gtattgtccacatcaactatgaaacccaagaacgcaccccgaaacagagc    113
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter    112 gcactgtggtttaaacaaatgatggccaaaaatggtttcggcagcctcga     63
+
+e164d-2_T7         1 --------------------------------------------------      0
+                                                                       
+e164d-2_T7ter     62 gcaccaccaccaccaccactgagatccggctgctaacaaagcnnnnnnnn     13
+
+e164d-2_T7         1 -----------nnnnnnnnnnnnnncnnnnnnnnnnntnnnnctnnaant     39
+                                                                       
+e164d-2_T7ter     12 annnnnnnnnnn--------------------------------------      1
+
+e164d-2_T7        40 aattttgtttaactttaagaaggagatatacatatgagcgagaacacctt     89
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7        90 tatctttccggcaacctttatgtggggcaccagcaccagcagctatcaga    139
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       140 ttgaaggtggcaccgatgaaggtggtcgtaccccgagcatttgggatacc    189
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       190 ttttgtcagattccgggtaaagttattggtggtgattgtggtgatgttgc    239
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       240 ctgtgatcattttcaccactttaaagaagatgtgcagctgatgaaacagc    289
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       290 tgggttttctgcattatcgttttanngttgcatggcctcgtattatgcct    339
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       340 gcagcaggtattatcaatgaagagggtctgctgttttatgagcatctgct    389
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       390 ggatgaaattgaactggcaggtctgattccgatgctgaccctgtatcatt    439
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       440 gggatctgccgcagtggattgaagataaaagcggttggacccagcgtgaa    489
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       490 acnntnnngcatttcaaaacctatgccagcgttatcatggatcgttttgn    539
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       540 nnaacgtattaattgggnnaacacnntantggannnnnatgtgcangcat    589
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       590 tcngnntnatggcnnnnnnnaaaatnnnnnggntcttgaaaattggnnng    639
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       640 aaaaantnncccnnnncnnaannncctctnnnnnnncnggnttttnnanc    689
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       690 cnnnnnngccaaaaaaaaannnnnnnnccggaaannnnnnnntnccnnnt    739
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       740 nnnnnnnaannntttnnnnncccacnncccnctnnnnaaanntnnnccnn    789
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       790 ntnannnnnnnnggnnnnnnnnnanntcaatnnnnnttnnccaaaacccc    839
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       840 ntttttccannnnaaaancccnnnnaanntaanngnnnnnngnatggcnn    889
+                                                                       
+e164d-2_T7ter      0 --------------------------------------------------      1
+
+e164d-2_T7       890 nnntnatntnaancggnnnctattttttnatcnnnaant    928
+                                                            
+e164d-2_T7ter      0 ---------------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts:      e164d-2_T7  e164d-2_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

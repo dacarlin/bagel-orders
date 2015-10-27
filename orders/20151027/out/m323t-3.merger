@@ -1,0 +1,211 @@
+########################################
+# Program: merger
+# Rundate: Tue 27 Oct 2015 14:24:25
+# Commandline: merger
+#    -asequence fwd_reads/m323t-3_T7_Plate_Plate01_C07.seq
+#    -bsequence rev_reads/m323t-3_T7term_Plate_Plate01_C07.seq
+#    -sreverse2
+#    -outfile out/m323t-3.merger
+#    -outseq out/m323t-3.fasta
+# Align_format: simple
+# Report_file: out/m323t-3.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: m323t-3_T7
+# 2: m323t-3_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2110
+# Identity:       0/2110 ( 0.0%)
+# Similarity:     0/2110 ( 0.0%)
+# Gaps:        2109/2110 (100.0%)
+# Score: -2.0
+# 
+#
+#=======================================
+
+m323t-3_T7         1 gggggaaaaagtaaactttcctctctattttttttttgtttacttaaaga     50
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7        51 aagatatattcttatgagagagaacctttttttctttccggctttcttta    100
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       101 tgtggggcaccccccccagctgctatcagattgaaggtggcaccgatgaa    150
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       151 ggtggtcccaccccgagcatttgcgattttttttgtcacattccgggtaa    200
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       201 agttattggtggtgattgtggtgatgttgcctgtgatctttttccccact    250
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       251 ttaaaaaatatgtgcaactgatgaaacagctgggttttctgcattatcgt    300
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       301 tttagcggtgcctggcctcgtattatgcctgcagtaggtattatcaaaga    350
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       351 agagggtctgctgttttatgagcatctgctggatgaaattgaactggcat    400
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       401 gtctgattccgatgctgaccctgtatcattgggatctgccgcattggatt    450
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       451 gaagatgaaggcggttggacccagcgcgaaacctttcagcatttcaaaac    500
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       501 ctatgtcagcgttatcatggatcgttttggtgaacttattaattggtgga    550
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       551 acaccatcattgaaccgtattgtgcaagcattctgggttatggcaccggt    600
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       601 gatcatgcaccgggtcatgaaaattgtcgtgaagcatctaccgcagcaca    650
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       651 tcatattctgatgtgtcctggtagtgcaagcaaccctgcattaagaaaaa    700
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       701 ggtctggaccgatataaattgtttattattcagatttatggaacatgttg    750
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       751 atgcagccagccaaccttccggaagatgcggcccgcaccaattccgtcgt    800
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       801 gattagttttatctatccgttggtttgcataacccactgctccatggtaa    850
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       851 agtatccctggaactattggctggtaatgggtcgggcacctctatcttga    900
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       901 tatggtcatgtgattttggtttctgccttcatggactatgggaatcttga    950
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7       951 attctacccattcaatgttgcatttttccctgcgtccctttaaccttatt   1000
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7      1001 cctctcccccttaatcctgtaattccctcccttcgtcccatgcatctgtg   1050
+                                                                       
+m323t-3_T7ter   1035 --------------------------------------------------   1036
+
+m323t-3_T7      1051 ccatagcccttgtgtctctgctacat------------------------   1076
+                                              .                        
+m323t-3_T7ter   1035 -------------------------nnngnnnncnnnnnnnnnanaannc   1011
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter   1010 ntncagcnnttnnnnnnnnnannnnncannnnnntnnnnnntnntnntgn    961
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    960 nngnnnnntnnntnnannnnnnngnnnncnancantgnnnnnntatngnn    911
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    910 caagncnnnnnnnggntatgggcngnnggtgancatgcnnnngntcatga    861
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    860 aaattggcgngaagcatttaccgncagcacatcatnttntgatgtgtcan    811
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    810 ngtattgcanncaacatgcataaagaaaaaaggtntgaccnggtaaaann    761
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    760 ggcattaccctgaatatngnaacatgttgatgcagcaagngaangtccgg    711
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    710 aagatgttgccgcagcaattngtcgtgatggttttatcantcgntggttt    661
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    660 gcagaaccgctgttcaatggtaaatatcctgaagatatggtggaatggta    611
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    610 tggcacctatntgaatggtntggattttgttcagcctggtgatatggaan    561
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    560 tgattcagcagccaggtgattttctgggcattaactattatacctgtagc    511
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    510 attattcgcagcaccaatgatgcaagcctgctgcaagttgaacaggttca    461
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    460 catggaagaaccggttaccgataccggttgggaaattcatccggaaagct    411
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    410 tctataaactgctgacccgcattgaaaaagattttagcaaaggtctgccg    361
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    360 atcctgattaccgaaaatggtgcagcaatgcgtgatgaactggttaatgg    311
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    310 tcagatggaagataccggtggtcatggttatattgaagaacatntgaaag    261
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    260 cctgccaccgctttatngaagaaggtggccagctgaaaggttattttgtt    211
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    210 tggagctttctggataactttgaatgggcatggggttatagcaaacgttt    161
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    160 tggtattgtccacatcaactatgaaacccaagaacgcaccccgaaacaga    111
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter    110 gcgcactgtggtttaaacaaatgatggccaaaaatggtttcggcagcctc     61
+
+m323t-3_T7      1077 --------------------------------------------------   1076
+                                                                       
+m323t-3_T7ter     60 gagcaccaccaccaccaccnngagatccggctgctaacangnnnnnnnnn     11
+
+m323t-3_T7      1077 ----------   1076
+                               
+m323t-3_T7ter     10 nnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:      m323t-3_T7  m323t-3_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------
