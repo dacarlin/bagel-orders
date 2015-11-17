@@ -1,6 +1,6 @@
 ########################################
 # Program: merger
-# Rundate: Mon 16 Nov 2015 15:20:41
+# Rundate: Mon 16 Nov 2015 16:39:36
 # Commandline: merger
 #    -asequence fwd_reads/w407k-1_T7_Plate_Plate02_C06.seq
 #    -bsequence rev_reads/w407k-1_T7term_Plate_Plate01_C06.seq
