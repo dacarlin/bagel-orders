@@ -1,6 +1,6 @@
 ########################################
 # Program: merger
-# Rundate: Mon 16 Nov 2015 16:39:35
+# Rundate: Mon 16 Nov 2015 16:52:37
 # Commandline: merger
 #    -asequence fwd_reads/v320q-1_T7_Plate_Plate02_F03.seq
 #    -bsequence rev_reads/v320q-1_T7term_Plate_Plate01_F03.seq
