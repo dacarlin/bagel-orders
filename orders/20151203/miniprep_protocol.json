@@ -1,0 +1,387 @@
+{
+  "refs": {
+    "kunkel_grow": {
+      "id": "ct18euwk4uqchv", 
+      "store": {
+        "where": "cold_4"
+      }
+    }, 
+    "dna": {
+      "new": "96-pcr", 
+      "store": {
+        "where": "cold_20"
+      }
+    }, 
+    "miniprep_grow": {
+      "new": "96-deep", 
+      "discard": true
+    }
+  }, 
+  "instructions": [
+    {
+      "reagent": "lb-broth-50ug-ml-kan", 
+      "object": "miniprep_grow", 
+      "columns": [
+        {
+          "column": 0, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 1, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 2, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 3, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 4, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 5, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 6, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 7, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 8, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 9, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 10, 
+          "volume": "1800:microliter"
+        }, 
+        {
+          "column": 11, 
+          "volume": "1800:microliter"
+        }
+      ], 
+      "op": "dispense"
+    }, 
+    {
+      "groups": [
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/1", 
+              "from": "kunkel_grow/1"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/0", 
+              "from": "kunkel_grow/0"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/76", 
+              "from": "kunkel_grow/76"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/53", 
+              "from": "kunkel_grow/53"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/48", 
+              "from": "kunkel_grow/48"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/37", 
+              "from": "kunkel_grow/37"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/61", 
+              "from": "kunkel_grow/61"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/14", 
+              "from": "kunkel_grow/14"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/38", 
+              "from": "kunkel_grow/38"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/86", 
+              "from": "kunkel_grow/86"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/4", 
+              "from": "kunkel_grow/4"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/40", 
+              "from": "kunkel_grow/40"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/15", 
+              "from": "kunkel_grow/15"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/88", 
+              "from": "kunkel_grow/88"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/63", 
+              "from": "kunkel_grow/63"
+            }
+          ]
+        }, 
+        {
+          "transfer": [
+            {
+              "volume": "15.0:microliter", 
+              "to": "miniprep_grow/89", 
+              "from": "kunkel_grow/89"
+            }
+          ]
+        }
+      ], 
+      "op": "pipette"
+    }, 
+    {
+      "object": "miniprep_grow", 
+      "type": "ultra-clear", 
+      "op": "seal"
+    }, 
+    {
+      "where": "warm_37", 
+      "object": "miniprep_grow", 
+      "co2_percent": 0, 
+      "duration": "16:hour", 
+      "shaking": true, 
+      "op": "incubate"
+    }, 
+    {
+      "object": "miniprep_grow", 
+      "op": "unseal"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/1", 
+          "from": "miniprep_grow/1"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/0", 
+          "from": "miniprep_grow/0"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/76", 
+          "from": "miniprep_grow/76"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/53", 
+          "from": "miniprep_grow/53"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/48", 
+          "from": "miniprep_grow/48"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/37", 
+          "from": "miniprep_grow/37"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/61", 
+          "from": "miniprep_grow/61"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/14", 
+          "from": "miniprep_grow/14"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/38", 
+          "from": "miniprep_grow/38"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/86", 
+          "from": "miniprep_grow/86"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/4", 
+          "from": "miniprep_grow/4"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/40", 
+          "from": "miniprep_grow/40"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/15", 
+          "from": "miniprep_grow/15"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/88", 
+          "from": "miniprep_grow/88"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/63", 
+          "from": "miniprep_grow/63"
+        }
+      ], 
+      "op": "miniprep"
+    }, 
+    {
+      "groups": [
+        {
+          "to": "dna/89", 
+          "from": "miniprep_grow/89"
+        }
+      ], 
+      "op": "miniprep"
+    }
+  ]
+}
