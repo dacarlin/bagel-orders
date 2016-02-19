@@ -1,0 +1,243 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:12
+# Commandline: merger
+#    -asequence reads/53_T7_Plate_Plate02_E07.seq
+#    -bsequence reads/55_T7term_Plate_Plate01_E07.seq
+#    -sreverse2
+#    -outfile out/E07.merger
+#    -outseq out/E07.fasta
+# Align_format: simple
+# Report_file: out/E07.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 53_T7
+# 2: 55_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2545
+# Identity:       0/2545 ( 0.0%)
+# Similarity:     0/2545 ( 0.0%)
+# Gaps:        2544/2545 (100.0%)
+# Score: -2.0
+# 
+#
+#=======================================
+
+53_T7              1 nnnnnnnnnnnnnnnnnnccntctngaaanaatttngtttaactttaaga     50
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7             51 aggagatatacatatgagcgagaacacctttatctttccggcaaccttta    100
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            101 tgtggggcaccagcaccagcagctatcagattgaaggtggcaccgatgaa    150
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            151 ggtggtcgtaccccgagcatttgggataccttttgtcagattccgggtaa    200
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            201 agttattggtggtgattgtggtgatgttgcctgtgatcattttcaccact    250
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            251 ttaaagaagatgtgcagctgatgaaacagctgggttttctgcattatcgt    300
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            301 tttagcgttgcatggcctcgtattatgcctgcagcaggtattatcaatga    350
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            351 agagggtctgctgttttatgagcatctgctggatgaaattgaactggcag    400
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            401 gtctgattccgatgctgaccctgtatcattgggatctgccgcagtggatt    450
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            451 gaagatgaaggcggttggacccagcgtgaaaccattcagcatttcaaaac    500
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            501 ctatgccagcgttatcatggatcgttttggtgaacgtattaattggtgga    550
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            551 acaccatcaatgaaccgtattgtgcaagcattctgggttatggcaccggt    600
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            601 gaacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcaca    650
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            651 tcatattctgatgtgtcatggtattgcaagcaacctgcataaagaaaaag    700
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            701 gtctgaccggtaaaattggcattaccctgaatatggaacatgttgatgca    750
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            751 gcaagcgaacgtccggaagatgttgccgcagcaattcgtcgtgatggttt    800
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            801 tatcaatcgttggtttgcagaaccgctgttcaatggtaaatatcctgaag    850
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            851 atatggtggaatggtatggcacctatctgaatggtctggattttgttcag    900
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            901 cctggtgatatggaactgattcagcagccaggtgattttctgggcattaa    950
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7            951 ctattatacccgtagcattattcgcagnncnaannnnncaagcctgctgc   1000
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1001 aagttgaannggttccnnnggaaaanccngnnnccnnnatgggnnggnaa   1050
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1051 ntnnnnccggaannnnnntnaanctgctgaccnnnntngaaaannntttn   1100
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1101 nnnaaaggttngccgannnnnattnccnaannggtnnnnancccngnnnn   1150
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1151 annnnnnnnnggncaannnnannnncnnnnnnnnnnnnnnnnnnaaannn   1200
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1201 nnnnannnnnnnncnnttnnnnnaaannnnnnnnnnnaaangnnnntnnn   1250
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1251 nnnngnnnnnngnnnnnnnnnnggnnnnnnnnnnnnnnnnnnnnnnnnnn   1300
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1301 nnnnnnnntnnnnnnnnngnccnnnnnnnannnnnnnngnnnnnannnnn   1350
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1351 ngnnnannntnnnnnnnnnnnnnnncccnnnnnnnnnnnnnnnnnnnnnn   1400
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1401 nnnnngnnnncncnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtnnnnnn   1450
+                                                                       
+55_T7term       1074 --------------------------------------------------   1075
+
+53_T7           1451 nnnnnnnnnnnnnnnnnnnnnn----------------------------   1472
+                                                                       
+55_T7term       1074 ---------------------gaagttaccggtacttcttggtgtgaaaa   1046
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term       1045 accctatatatgtaaatctggtatggaacacccccaatgcaaaaaaggaa    996
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        995 acccggtaatttgatgtgcaaagccatttcttgaggatttatagggccac    946
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        945 ccccggtgggtaaccatgagccaccgtagggtccatgaaaaaatttggcc    896
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        895 gttgaagccaatatacccagcagacaccatccataattatgattggcacc    846
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        845 atgttaattgccaagccaaacctggcataaagaaaaaaggttctgacccg    796
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        795 ggtaaaaattggcattaccctgaaatatggaacatgttgaatgcagcaaa    746
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        745 gcgaacgtcccggaaagatgttgccgcagcaattcgttcgtgatggtttt    696
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        695 atcaaatcgttgggtttgcagaacccgctgttcaatggtaaatatcctga    646
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        645 aagatatggtggaatgggtatggcacctatctgaatggtttggatttttg    596
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        595 ttcagcctggtgatatggaactgattcagcagccaggtgattttctgggc    546
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        545 attaactattatacccgtagcattatttcgcaagcaccaaatgatgcaaa    496
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        495 gcctgctgcaagttgaacaggttcacatggaagaaccggttaccgatatg    446
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        445 ggttgggaaattcatccggaaagcttctataaactgctgacccgcattga    396
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        395 aaaagattttagtaaaggtctgccgatcctgattaccgaaaatggtgcag    346
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        345 caatgcgtgatgaactggttaatggtcagatcgaagataccggtcgtcat    296
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        295 ggttatattgaagaacatctgaaagcctgccaccgctttatcgaagaagg    246
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        245 tggccagctgaaaggttattttgtttggagctttctggataactttgaat    196
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        195 gggcatggggttatagcaaacgttttggtattgtccacatcaactatgaa    146
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term        145 acccaagaacgcaccccgaaacagagcgcactgtggtttaaacaaatgat     96
+
+53_T7           1473 --------------------------------------------------   1472
+                                                                       
+55_T7term         95 ggccaaacttggaatcggcagcctcgagcaccaccaccaccaccactgag     46
+
+53_T7           1473 ---------------------------------------------   1472
+                                                                  
+55_T7term         45 atccggctgctaacaaaaaccccgaaaaagaaaacctacgtgctt      1
+
+
+#---------------------------------------
+#
+# Conflicts:           53_T7       55_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

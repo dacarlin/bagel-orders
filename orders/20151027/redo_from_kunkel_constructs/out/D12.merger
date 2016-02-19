@@ -1,0 +1,143 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:11
+# Commandline: merger
+#    -asequence reads/92_T7_Plate_Plate02_D12.seq
+#    -bsequence reads/48_T7term_Plate_Plate01_D12.seq
+#    -sreverse2
+#    -outfile out/D12.merger
+#    -outseq out/D12.fasta
+# Align_format: simple
+# Report_file: out/D12.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 92_T7
+# 2: 48_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1297
+# Identity:       1/1297 ( 0.1%)
+# Similarity:     0/1297 ( 0.0%)
+# Gaps:        1296/1297 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+92_T7              1 nnnnn---------------------------------------------      5
+                                                                       
+48_T7term       1293 ----nnnntttttnnnnnnnnnnnnnnnnnntcnnnnnnnngnnnnnnnn   1248
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term       1247 nnaaantnntnnnnnnnnnngnncnnnnnnnnnnnnnnnnnnnnnnnnnn   1198
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term       1197 nnnnnnnnnnnnnnnnccccnnnnnnntncnnnnntngggnannntnnnn   1148
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term       1147 nnnnnnnnnnnngggaanttnnnaannnntnnnnnannnnnnnnnnntnn   1098
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term       1097 nncccccnnnnnnnnnnaaaannccnnttnnnancnanttttcaaaaaac   1048
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term       1047 cnntnnnnnccaannnnttancnnnnnggantcgnttttttnnnngaaac    998
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        997 ggtantttnanttngnnnggnannncnccnccnaannnnnanccgnnnnt    948
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        947 tgtgccaaagcanttnntggggnttatnggnnnccnggtnnnacantnna    898
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        897 cccgggntnnatgaaaaattgggnngtgaaagcaanttacccgncngcca    848
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        847 cntnattattnntgatntgttcatggnnnttgcaagccaacccngcataa    798
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        797 anaaaaaaggnnttgaccggnnaaaatttggcattaccccnnaatnngga    748
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        747 acattgttgatncagcaagcgaacgttccggaagatgttgccgcagcaat    698
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        697 tcntcgtgatggttttatcnatcgttggtttgcagaaccgctgttcaatg    648
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        647 gtaaatatcctgaagatatggtggaatggtatggcacctatctgaatggt    598
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        597 ctggattttgttcagcctggtgatatggaactgattcagcagccaggtga    548
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        547 ttttctgggcattaactattatacccgtagcattattcgcagcaccaatg    498
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        497 atgcaagcctgctgcaagttgaacaggttcacatggaagaaccggttacc    448
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        447 gatatgggttgggaaattcatccggaaagcttctataaactgctgacccg    398
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        397 cattgaaaaagattttagcaaaggtctgccgatcctgattaccgaaaatg    348
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        347 gtgcagcaatgcgtgatgaactggttaatggtcagatcgaagataccggt    298
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        297 cgtcatggttatattgaagaacatctgaaagcctgccaccgctttatcga    248
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        247 agaaggtggccagctgaaaggttattttgtttggagctttctggataact    198
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        197 ttgaatgggcatggggttatagcaaacgttttggtattgtccacatcaac    148
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term        147 tatgaaacccaagaacgcaccccgaaacagagcgcactgtggtttaaaca     98
+
+92_T7              6 --------------------------------------------------      5
+                                                                       
+48_T7term         97 aatgatggccaaaaannnnnnnggcagcctcgagcaccaccaccaccacc     48
+
+92_T7              6 -----------------------------------------------      5
+                                                                    
+48_T7term         47 actgagatccggctgctaacnnannccgnaagannnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           92_T7       48_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

@@ -1,0 +1,31 @@
+BLASTN 2.2.31+
+
+
+Query= 41_T7 Sample_Name=41_T7 Chromat_id=4692790 Read_id=4641052 Version=1
+Length=985
+
+Length=1991
+
+Subject= BglB
+
+Length=1348
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 2637318
+
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

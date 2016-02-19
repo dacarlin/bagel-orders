@@ -1,0 +1,135 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:12
+# Commandline: merger
+#    -asequence reads/91_T7_Plate_Plate02_C12.seq
+#    -bsequence reads/36_T7term_Plate_Plate01_C12.seq
+#    -sreverse2
+#    -outfile out/C12.merger
+#    -outseq out/C12.fasta
+# Align_format: simple
+# Report_file: out/C12.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 91_T7
+# 2: 36_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1168
+# Identity:       1/1168 ( 0.1%)
+# Similarity:     0/1168 ( 0.0%)
+# Gaps:        1167/1168 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+91_T7              1 nnnnn---------------------------------------------      5
+                                                                       
+36_T7term       1164 ----nntnnnngnnngnnaaannnaaactnggcnnnnnntntaatnnncg   1119
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term       1118 gnnnnnnggncccnnnnnnnnnnnnnnggtctctnncccccngtnnnant   1069
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term       1068 tnaaaannnnaangcnggttnggncccnagngtggnaanccanttnnggc   1019
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term       1018 antttnnaaaancnnntgnccngcngnnntncanggattcgnttttggtn    969
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        968 gnacggtattnaatnnngnngaanncccatccaatgaanccgtattggtg    919
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        918 caagccantnntnggttnnnnccaccngnnaaaaacgnaccgggttcatg    869
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        868 aaaattngncnngaagcatttanccncannacatcatantntgatgtgtc    819
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        818 atggtattgcaagcaaccnnnataaagaaaaaggtctgaccggtaaaatt    769
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        768 ggcattaccctgaatatggaacatgttgatgcagcaagcgaacgtccgga    719
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        718 agatgttgccgcagcaattcgtcgtgatggttttatcaatcgttggtttg    669
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        668 cagaaccgctgttcaatggtaaatatcctgaagatatggtggaatggtat    619
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        618 ggcacctatctgaatggtctggattttgttcagcctggtgatatggaact    569
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        568 gattcagcagccaggtgattttctgggcattaactattatacccgtagca    519
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        518 ttattcgcagcaccaatgatgcaagcctgctgcaagttgaacaggttcac    469
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        468 atggaagaaccggttaccgatatgggttgggaaattcatccggaaagctt    419
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        418 ctataaactgctgacccgcattgaaaaagattttagcaaaggtctgccga    369
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        368 tcctgattaccgaaaatggtgcagcaatgcgtgatgaactggttaatggt    319
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        318 cagatcgaagataccggtcgtcatggttatattgaagaacatctgaaagc    269
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        268 ctgccaccgctttatcgaagaaggtggccagctgaaaggttattttgttt    219
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        218 ggtgctttctggataactttgaatgggcatggggttatagcaaacgtttt    169
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        168 ggtattgtccacatcaactatgaaacccaagaacgcaccccgaaacagag    119
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term        118 cgcactgtggtttaaacaaatgatggccaaaaannnnnnnggcagcctcg     69
+
+91_T7              6 --------------------------------------------------      5
+                                                                       
+36_T7term         68 agcaccaccaccaccaccactgagatccggctgctaacnaagcncnnnnn     19
+
+91_T7              6 ------------------      5
+                                       
+36_T7term         18 nnnnnnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           91_T7       36_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

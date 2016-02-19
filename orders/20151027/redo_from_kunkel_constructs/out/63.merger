@@ -1,0 +1,138 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:53
+# Commandline: merger
+#    -asequence reads/63_T7_Plate_Plate02_G08.seq
+#    -bsequence reads/63_T7term_Plate_Plate01_F03.seq
+#    -sreverse2
+#    -outfile out/63.merger
+#    -outseq out/63.fasta
+# Align_format: simple
+# Report_file: out/63.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 63_T7
+# 2: 63_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1110
+# Identity:       9/1110 ( 0.8%)
+# Similarity:     9/1110 ( 0.8%)
+# Gaps:        1092/1110 (98.4%)
+# Score: 13.0
+# 
+#
+#=======================================
+
+63_T7              1 nnnnnnnnnnnnnnnnnnnnnnnnnncatatgagcgagaacaccttcccn     50
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7             51 nntnnccggcaacctttatgtggggcaccagcaccagcagctatnagatt    100
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            101 gaaggtggcaccgatgaaggtggtcgtaccccgagcatttgggatacctt    150
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            151 ttgtcagattccgggtaaagttattggtggtgattgtggagatgttgcct    200
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            201 gtgatcattttcaccactttaaagaagatgtgcagctgatgaaacagctg    250
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            251 ggttttctgcattatcgttttagcgttgcatggcctcgtattatgcctgc    300
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            301 agcaggtattatcaatgaagagggtctgctgttttatgagnatctgctgg    350
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            351 atgaaattganctgncaggtctgattccgatgctgaccctgtatcattgg    400
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            401 gatctgccgcagtggattgaagatgaaggcggttgganccagcgtgaaac    450
+                                                                       
+63_T7term        612 --------------------------------------------------    613
+
+63_T7            451 cattcagcatttcnaaacctatgncagcgttatcatggatcgntttggtg    500
+                                                                     .|
+63_T7term        612 ------------------------------------------------ag    611
+
+63_T7            501 aacggtattaattggt----------------------------------    516
+                     ||..||.|..|||...                                  
+63_T7term        610 aanngtctggattttgnnnagcctggnnntanngaacnnantnnnnaacc    561
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        560 aggnnnnnttatgggcnntnaatnttannnccgnnncattaatannngcn    511
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        510 nanatgatgaaagcnnnnnnnnagntgaacnngttcacnnngaagaaccg    461
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        460 gttaccgatatgggntnggaaattcatccggnaagcttctataaactgct    411
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        410 gacccgcattgaaaaannnnntancaaaggtnnancgatcctgattaccn    361
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        360 naaatggtgnnnnnangngtnnnnnnnnngttaannnnnnnatnnaagat    311
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        310 accggtcgtnanggnnatanngnannnnannngnaancctnnnnannnnt    261
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        260 tannnaagaaggtngccagcnnaaannntannttnnttggancnttnnng    211
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        210 annannttgaatnnnnnatggggttatagcnaannttttggtattgtnca    161
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        160 cannnactntnaaacccaagaangcaccccgnaanagannncnnngtggt    111
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term        110 ttaaacaaatgatngncnnnnnnaanngggcagccnnnancnncnncacc     61
+
+63_T7            517 --------------------------------------------------    516
+                                                                       
+63_T7term         60 nncaccnnngagatccggnnnnnnaacaaaagnnnnnagnaagacntntn     11
+
+63_T7            517 ----------    516
+                               
+63_T7term         10 tnntnnatnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           63_T7       63_T7term
+#              position base   position base Using
+#                   499  'T'          1  'a'   'T'
+#                   507  'A'          9  'c'   'A'
+#                   509  'T'         11  'g'   'T'
+#                   510  'A'         12  'g'   'A'
+#                   514  'g'         16  'T'   'T'
+#                   515  'g'         17  'T'   'T'
+#                   516  't'         18  'G'   'G'
+# 
+#
+#---------------------------------------

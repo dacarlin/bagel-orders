@@ -1,0 +1,83 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:50
+# Commandline: merger
+#    -asequence reads/3_T7_Plate_Plate02_C01.seq
+#    -bsequence reads/3_T7term_Plate_Plate01_A03.seq
+#    -sreverse2
+#    -outfile out/3.merger
+#    -outseq out/3.fasta
+# Align_format: simple
+# Report_file: out/3.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 3_T7
+# 2: 3_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 532
+# Identity:       1/532 ( 0.2%)
+# Similarity:     0/532 ( 0.0%)
+# Gaps:         531/532 (99.8%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+3_T7               1 ----nnnnnnnnnnnnnnnntntccccctctnnnnannatttttgtttaa     46
+                                                                       
+3_T7term           5 nnnnn---------------------------------------------      1
+
+3_T7              47 ctttaagaaggagatntacatatgagcgagaacaccttnntctntccggc     96
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7              97 aacctttatgtggggcaccagcaccagcagctatcagattgaaggtggca    146
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             147 ccgatgaaggtggtcgtaccccgagcatttgggataccttttgtcagatt    196
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             197 ccgggtaaagttattggnggtgattgtggtgatgttgcctgtgatcnttt    246
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             247 tcnccactttaaagaagatgtgcagctgatgaaacagctgggttttctgc    296
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             297 attatcgttttagcgttgcatggcctcgtattatgcctgcagcaggtatt    346
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             347 atcaatgaagagggtctgctgttttatgagcatctgctggangaaattga    396
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             397 actggcaggtctgattccgatgctgaccctgtatcattgggatctgccgc    446
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             447 antggattgaagatgaaggcggttggacccagcgtgaaaccnttcagcat    496
+                                                                       
+3_T7term           0 --------------------------------------------------      1
+
+3_T7             497 ttcaaaacctatgccagcgttatcatgggatc    528
+                                                     
+3_T7term           0 --------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts:            3_T7        3_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

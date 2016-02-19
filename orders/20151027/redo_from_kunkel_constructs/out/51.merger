@@ -1,0 +1,83 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:53
+# Commandline: merger
+#    -asequence reads/51_T7_Plate_Plate02_C07.seq
+#    -bsequence reads/51_T7term_Plate_Plate01_E03.seq
+#    -sreverse2
+#    -outfile out/51.merger
+#    -outseq out/51.fasta
+# Align_format: simple
+# Report_file: out/51.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 51_T7
+# 2: 51_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 527
+# Identity:       1/527 ( 0.2%)
+# Similarity:     0/527 ( 0.0%)
+# Gaps:         526/527 (99.8%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+51_T7              1 ----nnnnnnnnnannnnnnnnnnnnncnnnannaantttgtttaacttt     46
+                                                                       
+51_T7term          5 nnnnn---------------------------------------------      1
+
+51_T7             47 aanaaggagatatacatatgagcgagaacaccttnttnnnnnccggcaac     96
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7             97 ctttatgtggggcaccagcaccagcanctatcagattgaaggtggcaccg    146
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            147 atgaaggtggtcgtaccccgagcatttgggataccttntgtcagattccg    196
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            197 ggtaaagttattggtggtgntngtggtgatgttgcctgtgatcattttca    246
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            247 ccactttaaagaagatgtgcagctgatgaaacagctgggttttctgcatt    296
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            297 atcgttttagcgttgcatggcctcgtattatgcctgcagcaggtattatc    346
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            347 aatgaagagggtctgctgttttatgagcatctgctggatgaaattgaact    396
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            397 ggnaggtctgatnccgatgctgaccctgtatcattgggatctgccgcagt    446
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            447 ggattgaagatgaaggcggttggacccagcgtgaaaccattcancatttt    496
+                                                                       
+51_T7term          0 --------------------------------------------------      1
+
+51_T7            497 caaaacctatgncancgttatcatgna    523
+                                                
+51_T7term          0 ---------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts:           51_T7       51_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

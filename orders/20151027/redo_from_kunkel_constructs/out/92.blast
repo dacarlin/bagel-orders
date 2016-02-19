@@ -1,0 +1,31 @@
+BLASTN 2.2.31+
+
+
+Query= 92_T7 Sample_Name=92_T7 Chromat_id=4692816 Read_id=4641102 Version=1
+Length=5
+
+Length=321
+
+Subject= BglB
+
+Length=1348
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 412824
+
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

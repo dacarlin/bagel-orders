@@ -1,0 +1,43 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:53
+# Commandline: merger
+#    -asequence reads/60_T7_Plate_Plate02_D08.seq
+#    -bsequence reads/60_T7term_Plate_Plate01_E12.seq
+#    -sreverse2
+#    -outfile out/60.merger
+#    -outseq out/60.fasta
+# Align_format: simple
+# Report_file: out/60.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 60_T7
+# 2: 60_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 9
+# Identity:       1/9 (11.1%)
+# Similarity:     0/9 ( 0.0%)
+# Gaps:           8/9 (88.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+60_T7              1 nnnnn----      5
+                              
+60_T7term          5 ----nnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           60_T7       60_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

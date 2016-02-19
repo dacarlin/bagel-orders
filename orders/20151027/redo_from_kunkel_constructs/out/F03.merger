@@ -1,0 +1,199 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:12
+# Commandline: merger
+#    -asequence reads/22_T7_Plate_Plate02_F03.seq
+#    -bsequence reads/63_T7term_Plate_Plate01_F03.seq
+#    -sreverse2
+#    -outfile out/F03.merger
+#    -outseq out/F03.fasta
+# Align_format: simple
+# Report_file: out/F03.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 22_T7
+# 2: 63_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1970
+# Identity:       1/1970 ( 0.1%)
+# Similarity:     0/1970 ( 0.0%)
+# Gaps:        1969/1970 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        612 agaanngtctggattttgnnnagcctggnnntanngaacnnantnnnnaa    563
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        562 ccaggnnnnnttatgggcnntnaatnttannnccgnnncattaatannng    513
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        512 cnnanatgatgaaagcnnnnnnnnagntgaacnngttcacnnngaagaac    463
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        462 cggttaccgatatgggntnggaaattcatccggnaagcttctataaactg    413
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        412 ctgacccgcattgaaaaannnnntancaaaggtnnancgatcctgattac    363
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        362 cnnaaatggtgnnnnnangngtnnnnnnnnngttaannnnnnnatnnaag    313
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        312 ataccggtcgtnanggnnatanngnannnnannngnaancctnnnnannn    263
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        262 nttannnaagaaggtngccagcnnaaannntannttnnttggancnttnn    213
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        212 ngannannttgaatnnnnnatggggttatagcnaannttttggtattgtn    163
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        162 cacannnactntnaaacccaagaangcaccccgnaanagannncnnngtg    113
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term        112 gtttaaacaaatgatngncnnnnnnaanngggcagccnnnancnncnnca     63
+
+22_T7              1 --------------------------------------------------      0
+                                                                       
+63_T7term         62 ccnncaccnnngagatccggnnnnnnaacaaaagnnnnnagnaagacntn     13
+
+22_T7              1 -----------nnnnnnnnnnnnnnnnnnnnnnnctctngnaataatttt     39
+                                                                       
+63_T7term         12 tntnntnnatnn--------------------------------------      1
+
+22_T7             40 gtttaactnntaagaaggagatatacatatgagcgagaacacctttatct     89
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7             90 ttccggcaacctttatgtggggcaccagcaccagcagctatcagattgaa    139
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            140 ggtggcaccgatgaaggtggtcgtaccccgagcatttgggataccttttg    189
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            190 tcagattccgggtaaagttattggtggtgattgtggtgatgttgcctgtg    239
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            240 atcattttcaccactttaaagaagatgtgcagctgatgaaacagctgggt    289
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            290 tttctgcattatcgttttagcgttgcatggcctcgtattatgcctgcagc    339
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            340 aggtattatcaatgaagagggtctgctgttttatgagcatctgctggatg    389
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            390 aaattgaactggcaggtctgattccgatgctgaccctgtatcattgggat    439
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            440 ctgccgcagtggattgaagatgaaggcggttggacccagcgtgaaaccat    489
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            490 tcagcatttcaaaacctatgccagcgttatcatggatcgttttggtgaac    539
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            540 gtattaattggtggaacaccatcaatgaaccgtattgtgcaagcattctg    589
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            590 ggttatggcaccggtgaacatgcaccgggtcatgaaaattggcgtgaagc    639
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            640 atttaccgcagcacatcatattctgatgtgtcatggtattgcaagcaacc    689
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            690 tgcataaagaaaaaggtctgaccggtaaaattggcattaccctgaatatg    739
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            740 gaacatgttgatgcagcaagcgaacgtccggaagatgttgccgcagcaat    789
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            790 tcgtcgtgatggttttatcaatcgttggtttgcagaaccgctgttcaatg    839
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            840 gtaaatatcctgaagatatggtggaatggtatggcacctatctgaatggt    889
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            890 ctggattttgttcagcctggngatatggaactgattcagcnnccagggnn    939
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            940 attttctggncattaactattatacccngtagcattattccnagcacnaa    989
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7            990 ngannnaancntgnnnnaagttgaacangttcannnggnnnanccgnnnc   1039
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1040 cngatatgggnttggnaaatnnnncnggaannnnnnnannannnnctgac   1089
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1090 cngcattnnaaannntttnnncanngnnnnnnnnnnnnnnnnnnncnnaa   1139
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1140 nnnnnnnccnnaatncnnnnacnnnnnntnnntcnnnnnnnngnnncnnn   1189
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1190 nnnnngnnnnnnnanaaaannnnnnnannnnnnccnnnntttnnnnnaaa   1239
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1240 ngggnncnnnnannnnnnattnnnngnnnntnnnngnnnnntnnnngnnn   1289
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1290 nnggnnnnnnnnnnnnnnnnntnnnncnnnnntnnannnannnnnntccn   1339
+                                                                       
+63_T7term          0 --------------------------------------------------      1
+
+22_T7           1340 nnnnnnnnannngnnnnnnn   1359
+                                         
+63_T7term          0 --------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts:           22_T7       63_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

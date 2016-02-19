@@ -1,0 +1,195 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:52
+# Commandline: merger
+#    -asequence reads/42_T7_Plate_Plate02_B06.seq
+#    -bsequence reads/42_T7term_Plate_Plate01_D06.seq
+#    -sreverse2
+#    -outfile out/42.merger
+#    -outseq out/42.fasta
+# Align_format: simple
+# Report_file: out/42.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 42_T7
+# 2: 42_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1928
+# Identity:       1/1928 ( 0.1%)
+# Similarity:     0/1928 ( 0.0%)
+# Gaps:        1927/1928 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+42_T7              1 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncccnctnnnnnnntttt     50
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7             51 gtttaactttaagaaggagatatacatatgaaactgaacaaacagaatct    100
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            101 gacccagctggcaccggaagttaaactgcctgcatataccctggcagata    150
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            151 cccgtcagggtattgcacatattggtgttggtggttttcatcgtgcacat    200
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            201 caggcatattataccgatgcactgatgaatacaggtgaaggtctggattg    250
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            251 gagcatttgcggtgttggtctgcgtagcgaagatcgtaaagcacgtgatg    300
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            301 atctggcaggtcaggattacctgtttaccctgtatgaactgggcgatacc    350
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            351 gatgataccgaagttcgtgttattggtagcattagcgatatgctgctggc    400
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            401 agaagatagcgcacaggcactgattgataaactggcaagtccggaaattc    450
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            451 gtattgttagcctgaccattaccgcgggtggntattgtattgatgatagc    500
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            501 aacggtgaatttatggcacatctgccgcagattcagcacgatctggcaca    550
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            551 tccgagcagcccgaaaaccgtttttggttttatttgtgcagcactgacac    600
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            601 agcgtcgtgcagcaggtnttccggcatttaccgnttatgagctgtgataa    650
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            651 cctgccgcataatggtgcagntacccgtaaagccctgctggcatttgcag    700
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            701 ccctgcataatgcagaactgcatgattggattaaagcccatgttagcttt    750
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            751 nccgaatgcnatggttgatcgtattaccccgntgacaagcaccncacatc    800
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            801 gtctgcaactgcatgacgaacatggtattgnatgannnntggnnngntnn    850
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            851 ttgtgaacccgtttgttcagngngttctggaanannaaaattngttaatt    900
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            901 ggncncntccgggcnnnnggnnaaaaagttnngntcnnnttnnnnnatnn    950
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7            951 atgnnnncccccnnannnanaaaaanngaaaantggnntnnnnnnnnang   1000
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+42_T7           1001 nggnnnnnn-----------------------------------------   1009
+                                                                       
+42_T7term        920 --------nnncattgcannnctgnnnatncagacnncnnnttggnnnna    879
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        878 aanctnntaggnnancnnagnnatnnttgnnnnntnnnnngnnnnncnnn    829
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        828 ncncnantcgnntnaactncanaannnnnngtnnngatnnnnatgccttn    779
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        778 ngnntgtnnacgttgttcannngttnngaagataatttgttnnngnnntc    729
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        728 cggnnngggaaaannnngtgttcagtnnccgatgatgntncncgtatgaa    679
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        678 gaaatgaaaattngnatgctgnntggtagccatcnngcactgannnntct    629
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        628 gggttttctgaaaggntnncgttttgtgcatgaaaccatgaacgatccgc    579
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        578 tgnntgttgcctatatgcgtgcatatatggatctggatgtgaccccgaat    529
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        528 ctggctccggttccgggtattgatctgaccgattatnncagaccctggtt    479
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        478 gatcgttttagcaatcaggcaattgcagatcagctggaacgtgtttgtag    429
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        428 tgatggtagcagcaaatttcctaaatttaccgttccgacaattaatcgtc    379
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        378 tgattgcagatggtcgtgaaaccgaacgtgcagcactggttgttgcanca    329
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        328 tgggaactgtatctgaaaggcgttgatgaaaatggtgtgagctataccat    279
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        278 tcctgatccgcgtgcagaattttgtcagggtctggtttcagatgatgcac    229
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        228 tgattagccagcgnctgctggcagttgaagaaatttttggcaccgcaatt    179
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        178 ccgaatagtccggaatttgttgccgcatttgaacgttgttatggtagcct    129
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term        128 gcgtgataatggtgttaccaccaccctgaaacatctgctgaaaanncntg     79
+
+42_T7           1010 --------------------------------------------------   1009
+                                                                       
+42_T7term         78 tnggtagcctcgagcaccaccaccaccaccactgagatccggctgntaac     29
+
+42_T7           1010 ----------------------------   1009
+                                                 
+42_T7term         28 nnnnnnnnnnnnnnnnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           42_T7       42_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

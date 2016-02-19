@@ -1,0 +1,208 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:53
+# Commandline: merger
+#    -asequence reads/52_T7_Plate_Plate02_D07.seq
+#    -bsequence reads/52_T7term_Plate_Plate01_E04.seq
+#    -sreverse2
+#    -outfile out/52.merger
+#    -outseq out/52.fasta
+# Align_format: simple
+# Report_file: out/52.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 52_T7
+# 2: 52_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2099
+# Identity:       2/2099 ( 0.1%)
+# Similarity:     2/2099 ( 0.1%)
+# Gaps:        2094/2099 (99.8%)
+# Score: 2.0
+# 
+#
+#=======================================
+
+52_T7              1 nnnnnnngnnnnnnnnnnnnncnnnnnnnnattttgtttaactttaagaa     50
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7             51 ggagatatacatatgagcgagaacacctttatctttccggcaacctttat    100
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            101 gtggggcaccagcaccagcagctatcagattgaaggtggcaccgatgaag    150
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            151 gtggtcgtaccccgagcatttgggataccttttgtcagattccgggtaaa    200
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            201 gttattggtggtgattgtggtgatgttgcctgtgatcattttcaccactt    250
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            251 taaagaagatgtgcagctgatgaaacagctgggttttctgcattatcgtt    300
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            301 ttagcgttgcatggcctcgtattatgcctgcagcaggtatnatcaatgaa    350
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            351 gagggtctgctgttttatgagcatctgctggatgaaattgaactggcagg    400
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            401 tctgattccgatgctgaccctgtatcattgggatctgccgcagtggattg    450
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            451 aagatgaaggcggttggacccagcgtgaaaccattcagcatttcaaaacc    500
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            501 tatgccagcgttatcntggatcgttttggtgaacgtattaattggtggaa    550
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            551 caccatcaatgaaccgtattgtgcaagcattctgggttatggcaccggtg    600
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            601 aacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcacat    650
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            651 catattctgatgtgtcatggnnattgcaagcaacctgcataaagaaaaaa    700
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            701 ggtctgaccggtaaaattggcattnnccctgaatatggaacatgttgatg    750
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            751 cagcaagcnnacgtccggaagangttgccgcagcaattcgtcgtgatggt    800
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            801 ttatcaatcgttgggtttgcagaaccgctgttcaatggnnaatatcctga    850
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            851 aganatggtggnaatgggnatggcaccctatnntgnangggtctggnatt    900
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            901 ttgnnnnncctnnnnannntggannnnnattcnnnnnncnnggnnatttt    950
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7            951 nntgggnnnntnannntnnnncccnnnnnnnnnntnattnnnnnnnnnnn   1000
+                                                                       
+52_T7term       1080 --------------------------------------------------   1081
+
+52_T7           1001 nnncannnnganntngnnnangnc--------------------------   1024
+                                        | . |                          
+52_T7term       1080 -------------------agcacctactttcaaacaaaaacccatttag   1050
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term       1049 ccccacagccagtttattcacatggattccgatttttaggtggaaccgtt   1000
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        999 atttaaattgggttggaacataccatcaatgaacaccgattattgagcac    950
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        949 agccaatttatgagatatatggccacacggtgatacattgcaccccgggt    900
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        899 tcatagaaaatttggacgttaagccatttaaccgccagcaccatccatat    850
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        849 ttactgatgtgtcaatggttattgcaagcaaacctgccataaaggaaaaa    800
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        799 agtcctgaccggtaaaattggcattaccctgaatatggaaccatgttgaa    750
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        749 gcagcaagcgaacgtccggaaagatgttgccgcagccaattagtcgtgat    700
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        699 gggtttttatcaatccgttgggttgcagaaaccgctgttcaatggtaaat    650
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        649 atcctgaaagatatggtggaatggtatggcacctatctgaatggtctgga    600
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        599 tttgttcagcctggtgatatggaactgattcagcagccaggtgattttct    550
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        549 gggcattaactattatacccgtagcattattcgcagcaccaatgatgcaa    500
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        499 gccagctgcaagttgaacaggttcacatggaagaaccggttaccgatatg    450
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        449 ggttgggaaattcatccggaaagcttctataaactgctgacccgcattga    400
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        399 aaaagattttagcaaaggtctgccgatcctgattaccgaaaatggtgcag    350
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        349 caacccgtgatgaactggttaatggtcagatcgaagataccggtcgtcat    300
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        299 ggttatattgaagaacatctgaaagcctgccaccgctttatcgaagaagg    250
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        249 tggccagctgaaaggttattttgtttggagctttctggataactttgaat    200
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        199 gggcatggggttatagcaaacgttttggtattgtccacatcaactatgaa    150
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term        149 acccaagaacgcaccccgaaacagagcgcactgtggtttaaacaaatgat    100
+
+52_T7           1025 --------------------------------------------------   1024
+                                                                       
+52_T7term         99 ggccaaattatggattcggcagcctcgagcaccaccaccaccaccacttg     50
+
+52_T7           1025 -------------------------------------------------   1024
+                                                                      
+52_T7term         49 aggatccggctgctaaacaaaagccccgaaaagggaaagcggtacttgt      1
+
+
+#---------------------------------------
+#
+# Conflicts:           52_T7       52_T7term
+#              position base   position base Using
+#                  1022  'g'          3  'C'   'C'
+# 
+#
+#---------------------------------------

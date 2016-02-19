@@ -1,0 +1,143 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:11
+# Commandline: merger
+#    -asequence reads/59_T7_Plate_Plate02_C08.seq
+#    -bsequence reads/32_T7term_Plate_Plate01_C08.seq
+#    -sreverse2
+#    -outfile out/C08.merger
+#    -outseq out/C08.fasta
+# Align_format: simple
+# Report_file: out/C08.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 59_T7
+# 2: 32_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1292
+# Identity:       1/1292 ( 0.1%)
+# Similarity:     0/1292 ( 0.0%)
+# Gaps:        1291/1292 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+59_T7              1 nnnnn---------------------------------------------      5
+                                                                       
+32_T7term       1288 ----nnnnnnnnnnngnnnnntnnnnnnnnggnnanannngcnngnnnnn   1243
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term       1242 ngnnnnnnnnnnnnnttnccccnttnnannnnnnnnnnggnnnannnnnn   1193
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term       1192 nnnnttnnnnnnnngnttaangggnnnggncnnnnnnnnnnnnnnnnnnn   1143
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term       1142 nnnnnnnnnnnnanngnttnnnnnnttttnnnnnnnttncnnnnnaannn   1093
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term       1092 nanggcaggnttgnntncgatgctnnnccnnnanngnnggnnnnncccan   1043
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term       1042 nngattgnnaannaangnngntggncccanngggnancanntannnnttc    993
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        992 naaacctnngccangggnnntnatggatcgttttngggaacgtattaatt    943
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        942 nggggaannccntcaatgaancgtattgtgcaagcattctgggttatggc    893
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        892 accggtgaacatgnnncgggtcatgaaaattggcgtgaagcatttaccnc    843
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        842 agcacatcatattcngatgtgtcatggtattgcaagcaacctgcataaag    793
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        792 aaaaaggtctgaccggtaaaattggcattaccctgaatatggaacatgtt    743
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        742 gatgcagcaagcgaacgtccggaagatgttgccgcagcaattcgtcgtga    693
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        692 tggttttatcaatcgttggtttgcagaaccgctgttcaatggtaaatatc    643
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        642 ctgaagatatggtggaatggtatggcacctatctgaatggtctggatttt    593
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        592 gttcagcctggtgatatggaactgattcagcagccaggtgattttctggg    543
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        542 cattaactattatacccgtagcattattcgcagcaccaatgatgcaagcc    493
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        492 tgctgcaagttgaacaggttcacatggaagaaccggttaccgatatgggt    443
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        442 tgggaaattcatccggaaagcttctataaactgctgacccgcattgaaaa    393
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        392 agattttagcaaaggtctgccgatcctgattaccgaaaatggtgcagcaa    343
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        342 tgcgtgatgaactggttaatggtcagatcgaagataccggtcgtcatggt    293
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        292 tatattgaagaacatctgaaagcctgccaccgctttatcgaagaaggtgg    243
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        242 ccagctgaaaggttattttgtttggagctttctggataactttgaatggg    193
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        192 catggggttatagcaaacgttttggtattgtccacatcaactatgaaacc    143
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term        142 caagaacgcaccccgaaacagagcgcactgtggtttaaacaaatgatggc     93
+
+59_T7              6 --------------------------------------------------      5
+                                                                       
+32_T7term         92 caaaaatggtttcggcagcctcgagcaccaccaccaccaccactgagntc     43
+
+59_T7              6 ------------------------------------------      5
+                                                               
+32_T7term         42 cggctgctnncaannnnnnnnaannnnnannnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           59_T7       32_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

@@ -1,0 +1,155 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:14
+# Commandline: merger
+#    -asequence reads/56_T7_Plate_Plate02_H07.seq
+#    -bsequence reads/91_T7term_Plate_Plate01_H07.seq
+#    -sreverse2
+#    -outfile out/H07.merger
+#    -outseq out/H07.fasta
+# Align_format: simple
+# Report_file: out/H07.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 56_T7
+# 2: 91_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1409
+# Identity:       1/1409 ( 0.1%)
+# Similarity:     0/1409 ( 0.0%)
+# Gaps:        1408/1409 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+56_T7              1 nnnnnnnnngnnnnnnnnnnnntctaganntaattttgtttaactttaag     50
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7             51 aaggagatatacatatgagcgagaacacctttatctttccggcaaccttt    100
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            101 atgtggggcaccagcaccagcagctatcagattgaaggtggcaccgatga    150
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            151 aggtggtcgtaccccgagcatttgggataccttttgtcagattccgggta    200
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            201 aagttattggtggtgattgtggtgatgttgcctgtgatcattttcaccac    250
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            251 tttaaagaagatgtgcagctgatgaaacagctgggttttctgcattatcg    300
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            301 ttttagcgttgcatggcctcgtattatgcctgcagcaggtattatcaatg    350
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            351 aagagggtctgctgttttatgagcatctgctggatgaaattgaactggca    400
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            401 ggtctgattccgatgctgaccctgtatcattgggatctgccgcagtggat    450
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            451 tgaagatgaaggcggttggacccagcgtgaaaccattcagcatttcaaaa    500
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            501 cctatgccagcgttatcatggatcgttttggtgaacgtattaattggtgg    550
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            551 aacaccatcaatgaaccgtattgtgcaagcattctgggttatggcaccgg    600
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            601 tgaacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcac    650
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            651 atcatattctgatgtgtcatggtattgcaagcaacctgcataaagaaaaa    700
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            701 ggtctgaccggtaaaattggcattaccctgaatatggaacatgttgatgc    750
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            751 agcaagcgaacgtccggaagatgttgccgcagcaattcgtcgtgatggtt    800
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            801 ttatcaatcgttggtttgcagaaccgctgttcaatggtaaatatcctgaa    850
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            851 gatatggtggaatggtatggcacctatctgaatggtctggattttgttca    900
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            901 gcctggtgatatggaactgattcagcagccaggtgattttctggnnntta    950
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7            951 actattatacccgtagcattattcgcagnncnaatgatgnangcctgctg   1000
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1001 caagttgaacaggnccnatggaaaanccggttaccnnnatggntnggnan   1050
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1051 nnnnnnnnggaannnnnnataactgctgaccnnattgaaaagatttnnna   1100
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1101 angnnnnnnntcctgatacnnaantggncacaatnnnnnnnnnngntaan   1150
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1151 gnnnnnnaaaanccggcgnnngntnntnngnnnnncnnnncnnnccccnt   1200
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1201 ttnncaaangggnccnnaannnatnntnnnnnnnctgnatnnnnnnnnnn   1250
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1251 nnnntancnnnttnnnngnnnnnnnnnnacnnnnccnnnnannnnnttnn   1300
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1301 nannnnnnnnnngnnnnnncncccnnnnnnnnnnnnnaannnnnnnnnnn   1350
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1351 nnnnnnnnnnacnngnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntgnnn   1400
+                                                                       
+91_T7term          5 --------------------------------------------------      6
+
+56_T7           1401 nannn----   1405
+                              
+91_T7term          5 ----nnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           56_T7       91_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

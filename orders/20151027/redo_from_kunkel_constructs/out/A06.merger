@@ -1,0 +1,223 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:10
+# Commandline: merger
+#    -asequence reads/41_T7_Plate_Plate02_A06.seq
+#    -bsequence reads/6_T7term_Plate_Plate01_A06.seq
+#    -sreverse2
+#    -outfile out/A06.merger
+#    -outseq out/A06.fasta
+# Align_format: simple
+# Report_file: out/A06.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 41_T7
+# 2: 6_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2297
+# Identity:       1/2297 ( 0.0%)
+# Similarity:     0/2297 ( 0.0%)
+# Gaps:        2296/2297 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+41_T7              1 nnnnnnnnnnnnnngnnnnnnnnnnnntcnnnnctagaaatnaattttgt     50
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7             51 ttaactttaagaaggagatatacatatgaaactgaacaaacagnaatctg    100
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            101 acccagctggcaccggaagttaaactgcctgcatataccctggcagatac    150
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            151 ccgtcagggtattgcacatattggtgttggtggttttcatcgtgcacatc    200
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            201 aggcatattataccgatgcactgatgaatacaggtgaaggtctggattgg    250
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            251 agcatttgcggtgttggtctgcgtagcgaagatcgtaaagcacgtgatga    300
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            301 tctggcaggtcaggattacctgtttaccctgtatgaactgggcgataccg    350
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            351 atgataccgaagttcgtgttattggtagcattagcgatatgctgctggca    400
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            401 gaagatagcgcacaggcactgattgataaactggcaagtccggaaattcg    450
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            451 tattgttagcctgaccattaccgcgggtggttattgtattgatgatagca    500
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            501 acggtgaatttatggcacatctgccgcagattcagcacgatctggcacat    550
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            551 ccgagcagcccgaaaaccgtttttggttttatttgtgcagcactgacaca    600
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            601 gcgtcgtgcagcaggtattccggcatttaccgttatgagctgtgataacc    650
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            651 tgcccgcataatggtgcagttacccgtaaagccctgctggcatttgcagc    700
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            701 cctgcataatgcanaaactgcatgattggattaaagcccatgttagcctt    750
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            751 ccgaaatgcantggntgatcgtattaccccgatgacnagcaccgcacatc    800
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            801 gnctgcaacngcatgacgaacatggtattgatgatgncatgggcctgntg    850
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            851 ttntgaacccgtttgttcagngggttnctggnagaataaatttgttaatg    900
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            901 ggncgtcccggnatgggaaanaagtngnnnnncnnntttnncnnatnnnn    950
+                                                                       
+6_T7term        1313 --------------------------------------------------   1314
+
+41_T7            951 nntnanncccnnnnnnnnnaagnaaannnnaaaan---------------    985
+                                                                       
+6_T7term        1313 ----------------------------------ncngnnnnnntnnnnn   1298
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term        1297 annttnnnnaannnnnngnnaannnttnnggnnaannnnggnnnnnnnnc   1248
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term        1247 nggnnnnnntnnncccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnng   1198
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term        1197 nnnttnnnnnnnnnnnttaanngnnnnnggcnnnngnntnnncctgcacn   1148
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term        1147 nnnnnntttnnnnnnnnanggnttnnnnntttnnnnnnantnnnnggnnn   1098
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term        1097 naatgaactggcaggtctgattccgatgctgancctgtatcattgggann   1048
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term        1047 nnccnncagtggattgaagntgaaggcggttggacccagcnggaaancca    998
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         997 ttcagcatttcnaaanctatgccagcgttatcatggatcgttttggtgaa    948
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         947 cgtattaattggtggaacaccatcaatgaaccgtattgtgcaagcattct    898
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         897 gggttatggcaccggtgaacatgcaccgggtcatgaaaattggcgtgaag    848
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         847 catttaccgcagcacatcatattctgatgtgtcatggtattgcaagcaac    798
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         797 ctgcataaagaaaaaggtctgaccggtaaaattggcattaccctgaatat    748
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         747 ggaacatgttgatgcagcaagcgaacgtccggaagatgttgccgcagcaa    698
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         697 ttcgtcgtgatggttttatcaatcgttggtttgcagaaccgctgttcaat    648
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         647 ggtaaatatcctgaagatatggtggaatggtatggcacctatctgaatgg    598
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         597 tctggattttgttcagcctggtgatatggaactgattcagcagccaggtg    548
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         547 attttctgggcattaactattatacccgtagcattattcgcagcaccaat    498
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         497 gatgcaagcctgctgcaagttgaacaggttcacatggaagaaccggttac    448
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         447 cgatatgggttgggaaattcatccggaaagcttctataaactgctgaccc    398
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         397 gcattgaaaaagattttagcaaaggtctgccgatcctgattaccgaaaat    348
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         347 ggtgcagcaatgcgtgatgaactggttaatggtcagatcgaagataccgg    298
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         297 tcgtcatggttatattgaagaacatctgaaagcctgccaccgctttatcg    248
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         247 aagaaggtggccagctgaaaggttattttgtttggagctttctggcgaac    198
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         197 tttgaatgggcatggggttatagcaaacgttttggtattgtccacatcaa    148
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term         147 ctatgaaacccaagaacgcaccccgaaacagagcgcactgtggtttaaac     98
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+6_T7term          97 aaatgatggccaaaaatggtttcggcagcctcgagcaccaccaccaccac     48
+
+41_T7            986 -----------------------------------------------    985
+                                                                    
+6_T7term          47 cactgagatccggctgctaacnaagnccgnaannnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           41_T7        6_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

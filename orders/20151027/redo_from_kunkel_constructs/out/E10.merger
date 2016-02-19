@@ -1,0 +1,147 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:12
+# Commandline: merger
+#    -asequence reads/77_T7_Plate_Plate02_E10.seq
+#    -bsequence reads/58_T7term_Plate_Plate01_E10.seq
+#    -sreverse2
+#    -outfile out/E10.merger
+#    -outseq out/E10.fasta
+# Align_format: simple
+# Report_file: out/E10.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 77_T7
+# 2: 58_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1322
+# Identity:       1/1322 ( 0.1%)
+# Similarity:     0/1322 ( 0.0%)
+# Gaps:        1321/1322 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1318 annnnnngnnnnnttttnnnncnctnnnnnnnnnnnnntttnnnnnnngn   1269
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1268 nnnnnnnnnnnnnncccnnnnnnnnnnnnnnnnnnnnnnnngnnnnngnn   1219
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1218 nnnntccnnaannnnnnnnngnnnnnnnnnnntttnnnnnnnnnnnnnnn   1169
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1168 ttgcnngggnnnnnnaaantgnnnactnngnnnnnnnnnnnnnnntnnng   1119
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1118 nannnntggncccntnnnnnnnattnnngnntttgncnncnnnnngnntg   1069
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1068 naaaannnnnaggncgnttnngnccccnnnnnngnaanncnntttcggca   1019
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term       1018 ntttnaaaannnntannnnangggntttccatggnnngnttttggnnaac    969
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        968 ngnnntaattngnngganncncctcnaatgaaccggtantnggcnnagca    919
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        918 nttctnggntnnnngnnncnnggnaacatgcaccnnggtcatgaaaaatt    869
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        868 ggcnnngaagcattttnncnnnagnncnancatantnnngatgtgnncat    819
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        818 ggtaanngcaagcaaccctgcataaagaaaaaggntnnnnccggtaaaat    769
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        768 tggnnttaccctgnnnatggaacatgttgatgcagcaagcgaacgtncgg    719
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        718 aagatgttgccgcagcaattcgtcgtgatggttttatcaatcgttggttt    669
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        668 gcagaaccgctgttcaatggtaaatatcctgaagatatggtggaatggta    619
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        618 tggcacctatctgaatggtctggattttgttcagcctggtgatatggaac    569
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        568 tgattcagcagccaggtgattttctgggcattaactattatacccgtagc    519
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        518 attattcgcagcaccaatgatgcaagcctgctgcaagttgaacaggttca    469
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        468 catggaagaaccggttaccgatatgggttgggaaattcatccggaaagct    419
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        418 tctataaactgctgacccgcattgaaaaagattttagcaaaggtctgccg    369
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        368 atcctgattaccgaaaatggtgcagcaatgcgtgatgaactggttaatgg    319
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        318 tcagatcgaagataccggtcgtcatggttatattgaagaacatctgaaag    269
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        268 cctgccaccgctttatcgaagaaggtggccagctgaaaggttattttgtt    219
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        218 tggagctttctggataactttgaatgggcatggggttatagcaaacgttt    169
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        168 tggtattgtccacatcaactatgaaacccaagaacgcaccccgaaacaga    119
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term        118 gcgcactgtggtttaaacaaatgatggccaaaaanggnttnggcagcctc     69
+
+77_T7              1 --------------------------------------------------      0
+                                                                       
+58_T7term         68 gagcaccaccaccaccnccactgagatccggctgntaacnaaagcnnnnn     19
+
+77_T7              1 -----------------nnnnn      5
+                                           
+58_T7term         18 annnannnnnnnnnnnnn----      1
+
+
+#---------------------------------------
+#
+# Conflicts:           77_T7       58_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

@@ -1,0 +1,143 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:11
+# Commandline: merger
+#    -asequence reads/60_T7_Plate_Plate02_D08.seq
+#    -bsequence reads/44_T7term_Plate_Plate01_D08.seq
+#    -sreverse2
+#    -outfile out/D08.merger
+#    -outseq out/D08.fasta
+# Align_format: simple
+# Report_file: out/D08.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 60_T7
+# 2: 44_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1270
+# Identity:       1/1270 ( 0.1%)
+# Similarity:     0/1270 ( 0.0%)
+# Gaps:        1269/1270 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+60_T7              1 nnnnn---------------------------------------------      5
+                                                                       
+44_T7term       1266 ----nnnattantnnnnnnnnnnnnnnnnnnntnnnnncnnnaannnnnn   1221
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term       1220 nncnnnngnnnnnnnnnnnngntttnnnnnnatannntnnnggnnnnngg   1171
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term       1170 ccnnnnntnnnnnnnnnnnanggttanttcnnannnnnggnnnnnnnntt   1121
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term       1120 tangcacnnngnnnnnannaattgaactggcaggtctgantccgatnntn   1071
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term       1070 nncccgnatcattgggatctcnnnnnnnnnattgaagannnangcggttg   1021
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term       1020 gancnnnnnnnnnaccantnncanttcnaaanntatnncagcnnnntcnn    971
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        970 ggatcgnntttgtgaangnnntaattngnggnannccnncaatgaaccgt    921
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        920 attnggcaagccattctgggttatggnncngnnaacatgcaccgggtcat    871
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        870 gnaaattggcgtgaagcantttccgcagcacntcatattctnnngtgtca    821
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        820 tggtattgcaancaccctgcataaagaaaaaggtctgacccggtaaaatt    771
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        770 ggcattaccctgaatatggaacatgttgatgcagcaagcgaacgtccgga    721
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        720 agatgttgccgcagcaattnntcgtgatggttttatcaatcgttggtttg    671
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        670 cagaaccgctgttcaatggtaaatatcctgaagatatggtggaatggtat    621
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        620 ggcacctatctgaatggtaacgattttgttcagcctggtgatatggaact    571
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        570 gattcagcagccaggtgattttctgggcattaactattatacccgtagca    521
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        520 ttattcgcagcaccaatgatgcaagcctgctgcaagttgaacaggttcac    471
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        470 atggaagaaccggttaccgatatgggttgggaaattcatccggaaagctt    421
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        420 ctataaactgctgacccgcattgaaaaagattttagcaaaggtctgccga    371
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        370 tcctgattaccgaaaatggtgcagcaatgcgtgatgaactggttaatggt    321
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        320 cagatcgaagataccggtcgtcatggttatattgaagaacatctgaaagc    271
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        270 ctgccaccgctttatcgaagaaggtggccagctgaaaggttattttgttt    221
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        220 ggagctttctggataactttgaatgggcatggggttatagcaaacgtttt    171
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        170 ggtattgtccacatcaactatgaaacccaagaacgcaccccgaaacagag    121
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term        120 cgcactgtggtttaaacaaatgatggccaaaaannnnnncggcagcctcg     71
+
+60_T7              6 --------------------------------------------------      5
+                                                                       
+44_T7term         70 agcaccaccnccaccaccactgagatccggctnnnnnnnnaagnccngnn     21
+
+60_T7              6 --------------------      5
+                                         
+44_T7term         20 aangnnnnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           60_T7       44_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

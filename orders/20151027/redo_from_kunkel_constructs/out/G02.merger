@@ -1,0 +1,123 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:13
+# Commandline: merger
+#    -asequence reads/15_T7_Plate_Plate02_G02.seq
+#    -bsequence reads/74_T7term_Plate_Plate01_G02.seq
+#    -sreverse2
+#    -outfile out/G02.merger
+#    -outseq out/G02.fasta
+# Align_format: simple
+# Report_file: out/G02.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 15_T7
+# 2: 74_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1033
+# Identity:       1/1033 ( 0.1%)
+# Similarity:     0/1033 ( 0.0%)
+# Gaps:        1032/1033 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+15_T7              1 nnnnn---------------------------------------------      5
+                                                                       
+74_T7term       1029 ----nnnnnngttnanncagnnnnnnnnnanttagnnnttannnannnnn    984
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        983 ccnnnngttnnnntggatagntnnngggaacgtanttannnnntgaancc    934
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        933 catcaatgnnnngtantnncaagcantttnggtaanncaccggtgaacat    884
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        883 gcaccgggtcatgaaaattggcgtgaagcnnntnccgcagcacatcatat    834
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        833 tctgatnngncagggtattgcaagcaacctgcataaagnaaaaggtctga    784
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        783 ccggtaaaattggcattaccctgaatatggaacatgttgatgcagcaagc    734
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        733 gaacgtccggaagatgttgccgcagcaattcgtcgtgatggttttatcaa    684
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        683 tcgttggtttgcagaaccgctgttcaatggtaaatatcctgaagatatgg    634
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        633 tggaatggtatggcacctatctgaatggtctggattttgttcagcctggt    584
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        583 gatatggaactgattcagcagccaggtgattttctgggcattaactatta    534
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        533 tacccgtagcattattcgcagcaccaatgatgcaagcctgctgcaagttg    484
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        483 aacaggttcacatggaagaaccggttaccgatatgggttgggaaattcat    434
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        433 ccggaaagcttctataaactgctgacccgcattgaaaaagattttagcaa    384
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        383 aggtctgccgatcctgattaccgaaaatggtgcagcaatgcgtgatgaac    334
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        333 tggttaatggtcagatngaagataccggtcgtcatggttatattgaagaa    284
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        283 catctgaaagcctgccaccgctttatcgaagaaggtggccagctgaaagg    234
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        233 ttattttgtttggagctttctggataactttgaatgggcatggggttata    184
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        183 gcaaacgttttggtattgtccacatcaactatgaaacccaagaacgcacc    134
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term        133 ccgaaacagagcgcactgtggtttaaacaaatgatggncaccccnnaang     84
+
+15_T7              6 --------------------------------------------------      5
+                                                                       
+74_T7term         83 ggggcagcctcgagcaccaccaccaccaccantgagattccggctgctna     34
+
+15_T7              6 ---------------------------------      5
+                                                      
+74_T7term         33 cnaannnnnnnaannnnnannnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           15_T7       74_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

@@ -1,0 +1,230 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:53
+# Commandline: merger
+#    -asequence reads/57_T7_Plate_Plate02_A08.seq
+#    -bsequence reads/57_T7term_Plate_Plate01_E09.seq
+#    -sreverse2
+#    -outfile out/57.merger
+#    -outseq out/57.fasta
+# Align_format: simple
+# Report_file: out/57.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 57_T7
+# 2: 57_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1483
+# Identity:     698/1483 (47.1%)
+# Similarity:   698/1483 (47.1%)
+# Gaps:         322/1483 (21.7%)
+# Score: 2173.0
+# 
+#
+#=======================================
+
+57_T7              1 nnnnnnnnnnnnnnnnnnnnnctnnnnnnattttgtttaactttaagaag     50
+                                                                       
+57_T7term       1243 --------------------------------------------------   1244
+
+57_T7             51 gagatatacatatgagcgagaacacctttatctttccggcaacctttatg    100
+                                                                       
+57_T7term       1243 --------------------------------------------------   1244
+
+57_T7            101 tggggcaccagcaccagcagctatcagattgaaggtggcaccgatgaagg    150
+                                                                       
+57_T7term       1243 --------------------------------------------------   1244
+
+57_T7            151 tggtcgtaccccgagcatttgggataccttttgtcagattccgggtaaag    200
+                                                                       
+57_T7term       1243 --------------------------------------------------   1244
+
+57_T7            201 ttattggtggtgattgtggtgatgttgcctgtgatcattttcaccacttt    250
+                                                          ......||.|...
+57_T7term       1243 -------------------------------------nnnntncccccnn   1231
+
+57_T7            251 aaagaagatgtgcagctgatgaaacagctgggttttctgcattatcgttt    300
+                     ..|...................|||........|||.........|...|
+57_T7term       1230 nnaagnnnnnnnnnagnnnnnnaacnnnnnnnntttnnnnnnanncnnnt   1181
+
+57_T7            301 tagcgttgcatggcctcgtattatgcctgcagcaggtattatcaatgaag    350
+                     .|...........||..........|....|.............|.....
+57_T7term       1180 nannnnnnnnnnncccnnnnnnnnncnnnnannnnnnnnnnnnnannnnn   1131
+
+57_T7            351 agggtctgctgttttatgagcatctgctggatgaaattgaactggcaggt    400
+                     .||.|........||...................|||||||||||||||.
+57_T7term       1130 nggnttnnnnnnnttnnnnnnnnncnnnnnnnnnaattgaactggcaggn   1081
+
+57_T7            401 ctgattccgatgctgaccctgtatcattgggatctgccgcagtggattga    450
+                     .|||.|.||......|.||||...|.....|..|..||.|||||||.|.|
+57_T7term       1080 ttganttcgnnnnnnancctgnnncnnnnngnncnnccccagtggantna   1031
+
+57_T7            451 agatgaaggcggttggacccagcgtgaaaccattcagcatttcaaaacct    500
+                     ||||.|||.|||||||.||||||||...|.|.|||||||||||.|||||.
+57_T7term       1030 agatnaagccggttggncccagcgtnnnancnttcagcatttcnaaaccn    981
+
+57_T7            501 atgccagcgttatcatggatcgttttggtgaacgtattaattggtggaac    550
+                     ..|||...|||||||||||||||||||||||||||||||||||||.....
+57_T7term        980 tagccnnngttatcatggatcgttttggtgaacgtattaattggtnnnnn    931
+
+57_T7            551 accatcaaagaaccgtattgtgcaagca-ttctgggttatggcaccggtg    599
+                     |||||||||||||||||||||||||||| |||.|||||||||||||||||
+57_T7term        930 accatcaaagaaccgtattgtgcaagcanttcngggttatggcaccggtg    881
+
+57_T7            600 aacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcacat    649
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        880 aacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcacat    831
+
+57_T7            650 catattctgatgtgtcatggtattgcaagcaacctgcataaagaaaaagg    699
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        830 catattctgatgtgtcatggtattgcaagcaacctgcataaagaaaaagg    781
+
+57_T7            700 tctgaccggtaaaattggcattaccctgaatatggaacatgttgatgcag    749
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        780 tctgaccggtaaaattggcattaccctgaatatggaacatgttgatgcag    731
+
+57_T7            750 caagcgaacgtccggaagatgttgccgcagcaattcgtcgtgatggtttt    799
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        730 caagcgaacgtccggaagatgttgccgcagcaattcgtcgtgatggtttt    681
+
+57_T7            800 atcaatcgttggtttgcagaaccgctgttcaatggtaaatatcctgaaga    849
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        680 atcaatcgttggtttgcagaaccgctgttcaatggtaaatatcctgaaga    631
+
+57_T7            850 tatggtggaatggtatggcacctatctgaatggtctggattttgttcagc    899
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        630 tatggtggaatggtatggcacctatctgaatggtctggattttgttcagc    581
+
+57_T7            900 ctggtgatatggaactgattcagcagccaggtgatttnctgggcattaac    949
+                     ||||||||||||||||||||||||||||||||||||| ||||||||||||
+57_T7term        580 ctggtgatatggaactgattcagcagccaggtgattttctgggcattaac    531
+
+57_T7            950 tattatacccgtagcattattcgcagcaccaatgatgcaagcctgctgca    999
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+57_T7term        530 tattatacccgtagcattattcgcagcaccaatgatgcaagcctgctgca    481
+
+57_T7           1000 agttgaacaggttc-catggaaannccggttaccgatatgggttgggaaa   1048
+                     |||||||||||||| |||||||.  |||||||||||||||||||||||||
+57_T7term        480 agttgaacaggttcacatggaagaaccggttaccgatatgggttgggaaa    431
+
+57_T7           1049 ttcanccgg-aannnncnttaanctgctgacc--nnnttgaaaannnttn   1095
+                     |||| |||| ||    | .||| |||||||||     |..||||   || 
+57_T7term        430 ttcatccggaaagcttctataaactgctgacccgcattgaaaaagatttt    381
+
+57_T7           1096 agcaaagnnnnnnnnnnnnnnnnccnnaanngggnnncnaatgnngnnna   1145
+                     |||||||                ..  .|  ..|   | ....  .   |
+57_T7term        380 agcaaaggtctgccgatcctgattaccgaaaatggtgcagcaatgcgtga    331
+
+57_T7           1146 nnnnnnaannnnnnntnnnantaccgnnnnnnngnnnnntnnnaannnnn   1195
+                           ..       |   | ....|       .     |   .|     
+57_T7term        330 tgaactggttaatggtcagatcgaagataccggtcgtcatggttatattg    281
+
+57_T7           1196 nannccngcccnntttnnnnaanngggncnnnnnnnnnntttnnnnnnnn   1245
+                      |  .| .|..  ...    .|  |   |          ...        
+57_T7term        280 aagaacatctgaaagcctgccaccg---ctttatcgaagaaggtggccag    234
+
+57_T7           1246 nnnnnngnnnnnnnnggnnngnnnnannnnnntnnnngnnnnnannnnnn   1295
+                           |        |.   |    .      |    .     .      
+57_T7term        233 ctgaaaggttattttgtttggagctttctggataactttgaatgggcatg    184
+
+57_T7           1296 nnnnnnnnncccnnannnnngnnnnnnannnnnnnnnannnnnnnncnng   1345
+                              |..  .     |      .         .        |  |
+57_T7term        183 gggttatagcaaacgttttggtattgtccacatcaactatgaaacccaag    134
+
+57_T7           1346 nnnnnnnnnnnggnnnnnnnnnnnnnnnngnnnnnnacnnnannnnnnnn   1395
+                                ..                .      |.   |        
+57_T7term        133 aacgcaccccgaaacagagcgcactgtggtttaaacaaatgatggccaaa     84
+
+57_T7           1396 nnnnnn--------------------------------------------   1401
+                                                                       
+57_T7term         83 aatggtttcggcagcctcgagcaccaccaccaccaccactgagatccggc     34
+
+57_T7           1402 ---------------------------------   1401
+                                                      
+57_T7term         33 tgctaacnnnnnnngnnnnnnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           57_T7       57_T7term
+#              position base   position base Using
+#                   242  'C'          5  't'   'C'
+#                   246  'A'          9  'c'   'A'
+#                   248  'T'         11  'c'   'T'
+#                   254  'G'         17  'a'   'G'
+#                   255  'A'         18  'g'   'A'
+#                   265  'G'         28  'a'   'G'
+#                   266  'C'         29  'g'   'C'
+#                   293  'T'         56  'a'   'T'
+#                   316  'T'         79  'c'   'T'
+#                   356  'C'        119  't'   'C'
+#                   375  'T'        138  'c'   'T'
+#                   401  'C'        164  't'   'C'
+#                   407  'C'        170  't'   'C'
+#                   439  'G'        202  'c'   'G'
+#                   459  'G'        222  'c'   'G'
+#                   501  'A'        264  't'   'A'
+#                   502  'T'        265  'a'   'T'
+#                   579  '.'        342  'n'   '.'
+#                  1014  '.'        778  'A'   'A'
+#                  1021  'a'        786  'G'   'G'
+#                  1058  '.'        823  'A'   'A'
+#                  1066  't'        832  'A'   'A'
+#                  1080  '.'        846  'C'   'C'
+#                  1080  '.'        847  'G'   'G'
+#                  1084  't'        852  'G'   'G'
+#                  1085  'g'        853  'A'   'A'
+#                  1119  'c'        887  'T'   'T'
+#                  1120  'c'        888  'A'   'A'
+#                  1123  'a'        891  'G'   'G'
+#                  1127  'g'        895  'A'   'A'
+#                  1128  'g'        896  'T'   'T'
+#                  1135  'a'        903  'G'   'G'
+#                  1136  'a'        904  'C'   'C'
+#                  1137  't'        905  'A'   'A'
+#                  1138  'g'        906  'A'   'A'
+#                  1141  'g'        909  'C'   'C'
+#                  1152  'a'        920  'G'   'G'
+#                  1153  'a'        921  'G'   'G'
+#                  1167  't'        935  'C'   'C'
+#                  1168  'a'        936  'G'   'G'
+#                  1169  'c'        937  'A'   'A'
+#                  1170  'c'        938  'A'   'A'
+#                  1179  'g'        947  'T'   'T'
+#                  1189  'a'        957  'T'   'T'
+#                  1200  'c'        968  'A'   'A'
+#                  1203  'g'        971  'T'   'T'
+#                  1205  'c'        973  'T'   'T'
+#                  1206  'c'        974  'G'   'G'
+#                  1209  't'        977  'A'   'A'
+#                  1210  't'        978  'G'   'G'
+#                  1211  't'        979  'C'   'C'
+#                  1216  'a'        984  'C'   'C'
+#                  1221  'g'        989  '.'   '.'
+#                  1222  'g'        989  '.'   '.'
+#                  1223  'n'        989  '.'   '.'
+#                  1235  't'       1000  'A'   'A'
+#                  1236  't'       1001  'A'   'A'
+#                  1237  't'       1002  'G'   'G'
+#                  1262  'g'       1027  'T'   'T'
+#                  1271  'a'       1036  'T'   'T'
+#                  1283  'g'       1048  'T'   'T'
+#                  1289  'a'       1054  'G'   'G'
+#                  1306  'c'       1071  'A'   'A'
+#                  1307  'c'       1072  'A'   'A'
+#                  1310  'a'       1075  'G'   'G'
+#                  1323  'a'       1088  'C'   'C'
+#                  1333  'a'       1098  'T'   'T'
+#                  1357  'g'       1122  'A'   'A'
+#                  1358  'g'       1123  'A'   'A'
+#                  1375  'g'       1140  'T'   'T'
+#                  1383  'c'       1148  'A'   'A'
+# 
+#
+#---------------------------------------

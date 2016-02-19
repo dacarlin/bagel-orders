@@ -1,0 +1,65 @@
+BLASTN 2.2.31+
+
+
+Query= 51_T7 Sample_Name=51_T7 Chromat_id=4692792 Read_id=4641042 Version=1
+Length=523
+
+Length=527
+
+Subject= BglB
+
+Length=1348
+
+
+ Score = 760 bits (411),  Expect = 0.0
+ Identities = 423/433 (98%), Gaps = 1/433 (0%)
+ Strand=Plus/Plus
+
+Query  93   CCGGCAACCTTTATGTGGGGCACCAGCACCAGCANCTATCAGATTGAAGGTGGCACCGAT  152
+            |||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  16   CCGGCAACCTTTATGTGGGGCACCAGCACCAGCAGCTATCAGATTGAAGGTGGCACCGAT  75
+
+Query  153  GAAGGTGGTCGTACCCCGAGCATTTGGGATACCTTNTGTCAGATTCCGGGTAAAGTTATT  212
+            ||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||
+Sbjct  76   GAAGGTGGTCGTACCCCGAGCATTTGGGATACCTTTTGTCAGATTCCGGGTAAAGTTATT  135
+
+Query  213  GGTGGTGNTNGTGGTGATGTTGCCTGTGATCATTTTCACCACTTTAAAGAAGATGTGCAG  272
+            ||||||| | ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136  GGTGGTGATTGTGGTGATGTTGCCTGTGATCATTTTCACCACTTTAAAGAAGATGTGCAG  195
+
+Query  273  CTGATGAAACAGCTGGGTTTTCTGCATTATCGTTTTAGCGTTGCATGGCCTCGTATTATG  332
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  196  CTGATGAAACAGCTGGGTTTTCTGCATTATCGTTTTAGCGTTGCATGGCCTCGTATTATG  255
+
+Query  333  CCTGCAGCAGGTATTATCAATGAAGAGGGTCTGCTGTTTTATGAGCATCTGCTGGATGAA  392
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  256  CCTGCAGCAGGTATTATCAATGAAGAGGGTCTGCTGTTTTATGAGCATCTGCTGGATGAA  315
+
+Query  393  ATTGAACTGGNAGGTCTGATNCCGATGCTGACCCTGTATCATTGGGATCTGCCGCAGTGG  452
+            |||||||||| ||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  316  ATTGAACTGGCAGGTCTGATTCCGATGCTGACCCTGTATCATTGGGATCTGCCGCAGTGG  375
+
+Query  453  ATTGAAGATGAAGGCGGTTGGACCCAGCGTGAAACCATTCANCATTTTCAAAACCTATGN  512
+            ||||||||||||||||||||||||||||||||||||||||| || |||||||||||||| 
+Sbjct  376  ATTGAAGATGAAGGCGGTTGGACCCAGCGTGAAACCATTCAGCA-TTTCAAAACCTATGC  434
+
+Query  513  CANCGTTATCATG  525
+            || ||||||||||
+Sbjct  435  CAGCGTTATCATG  447
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 688040
+
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

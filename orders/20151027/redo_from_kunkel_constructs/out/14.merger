@@ -1,0 +1,207 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:51
+# Commandline: merger
+#    -asequence reads/14_T7_Plate_Plate02_F02.seq
+#    -bsequence reads/14_T7term_Plate_Plate01_B02.seq
+#    -sreverse2
+#    -outfile out/14.merger
+#    -outseq out/14.fasta
+# Align_format: simple
+# Report_file: out/14.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 14_T7
+# 2: 14_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2051
+# Identity:       1/2051 ( 0.0%)
+# Similarity:     0/2051 ( 0.0%)
+# Gaps:        2050/2051 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+14_T7              1 nnnnnnnnnnnnnnnnnnnnnnnncnnnnanntnatttngtttaacttta     50
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7             51 agaaggagatatacatatgagcgagaacacctttatctttccggcaacct    100
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            101 ttatgtggggcaccagcaccagcagctatcagattgaaggtggcaccgat    150
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            151 gaaggtggtcgtaccccgagcatttgggataccttttgtcagattccggg    200
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            201 taaagttattggtggtgattgtggtgatgttgcctgtgatcattttcacc    250
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            251 actttaaagaagatgtgcagctgatgaaacagctgggttttctgcattat    300
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            301 cgttttagcgttgcatggcctcgtattatgcctgcagcaggtattatcaa    350
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            351 tgaagagggtctgctgttttatgagcatctgctggatgaaattgaactgg    400
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            401 caggtctgattccgatgctgaccctgtatcattgggatctgccgcagtgg    450
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            451 attgaagatgaaggcggttggacccagcgtgaaaccattcagcatttcaa    500
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            501 aacctttgccagcgttatcatggatcgttttggtgaacgtattaattggt    550
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            551 ggaacaccattaatgaaccgtattgtgcaagcattctgggttatggcacc    600
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            601 ggtaaacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagc    650
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            651 acatcatattctgatgtgtcatggtattgcaagcaacctgcataaagaaa    700
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            701 aaggnctgaccggnaaattggcattaccctgaatatggaacatgttgatg    750
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            751 cnnangcgaacgtccgnagntgtgccgcannnttcgtcgtgatggtttnn    800
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            801 naatcgnngnttgnnanccntgttcatggtaatatcctgaannntgnngn    850
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            851 aatggatggcactatctganggnctggntttgtnngcctgnnntatggac    900
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            901 tgannnncagccagnnatttctggcattactatataccngagcatttnnn    950
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7            951 nnnacnntgnnnnngcntnnnnagttgacaggtccatggaaanccgtnnn   1000
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7           1001 nntnggnnggnaatnnnnngnaancnctannnnntgaccnnttgaaantt   1050
+                                                                       
+14_T7term        964 --------------------------------------------------    965
+
+14_T7           1051 aanaaggnnnnnacnnnnnnaaannggnnnannnnnnn------------   1088
+                                                                       
+14_T7term        964 -------------------------------------nannnnnnnnnnn    952
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        951 nnnnnnngannnnntnnaanngngtnatggnggnnnnnnnnnnggaannn    902
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        901 nannnnannnnactnnnnttaangnacngnnaaacnnncnngggtcatga    852
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        851 nnttggcggannnntttccgnnannnnnnnnttctnatgcgtcnnnannn    802
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        801 gcaagncncctgcatnnanaaaaggnntnnncnnnaaattggcattaccc    752
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        751 tgaatatggnacatgttgatnnagcagngaacgtccggaagatgtnncgc    702
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        701 agnnnttcgtcgtgatggtttatcaatcgttggtttgcagaaccgctgtt    652
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        651 caatggtaaatntnngaagatatggtggaatggtatggcacctatctgaa    602
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        601 tggtctggattttgttcagcctggtgatatggaactgattcagcagccag    552
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        551 gtgattttctgggcattaactattatacccgtagcattattcgcagcacc    502
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        501 aatgatgcaagcctgctgcaagttgaacaggttcacatggaagaaccggt    452
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        451 taccgatatgggttgggaaattcatccggaaagcttctataaactgctga    402
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        401 cccgcattgaaaaagattttagcaaaggtctgccgatcctgattacngaa    352
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        351 aatggtnnnnnnatgcgtgatgaactggttaatggtcagatcgaagatac    302
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        301 cggtcgtcatggttatattgaagaacatctgaaagcctgccaccgcttta    252
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        251 tcgaagaaggtggccagctgaaaggttattttgtttggagctttctggat    202
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        201 aactttgaatgggcatggggttatagcaaacgttttggtattgtccacat    152
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        151 caactatgaaacccaagaacgcaccccgaaacagagcgcactgtggttta    102
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term        101 aacaaatgatggccnnnnnnnnnnncggcagcctcgagcaccaccaccac     52
+
+14_T7           1089 --------------------------------------------------   1088
+                                                                       
+14_T7term         51 caccactgagatccggctgctaacaaagnccgaannnnnnnnnnnnnnnn      2
+
+14_T7           1089 -   1088
+                      
+14_T7term          1 n      1
+
+
+#---------------------------------------
+#
+# Conflicts:           14_T7       14_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

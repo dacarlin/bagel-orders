@@ -1,0 +1,171 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:10
+# Commandline: merger
+#    -asequence reads/49_T7_Plate_Plate02_A07.seq
+#    -bsequence reads/7_T7term_Plate_Plate01_A07.seq
+#    -sreverse2
+#    -outfile out/A07.merger
+#    -outseq out/A07.fasta
+# Align_format: simple
+# Report_file: out/A07.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 49_T7
+# 2: 7_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1631
+# Identity:       1/1631 ( 0.1%)
+# Similarity:     0/1631 ( 0.0%)
+# Gaps:        1630/1631 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term        1105 nnnnnnnnnnnntttnggnnnnnnnnnnnnaantnnannnnnngttgatt   1056
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term        1055 ccnngnggncccnttnnntggnnnncnncnnnnttgaagnnnnggcggtt   1006
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term        1005 ggncccgcnggaaccnnttagcanttcnaaactnnnccagcgtannntng    956
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         955 nnnnntngggaacgntttantggtngnancccnncatnngncgtattgnc    906
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         905 cagccttcnnggntnnngnnncnngnacctnnnccggtcatgaaattggn    856
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         855 nngaagcanttnncgcagcacatcatnnntgatgtntncnggtattgcaa    806
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         805 ncacctgnntaaagaaaaaggtctnccngtaaaattggcattaccctgaa    756
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         755 tanngaacatgtnntgcagcaagcgaacgtccggaagatgtnccgcagca    706
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         705 attngtcgtganggttttatcaatcgttggtttgcagaaccgctgttcaa    656
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         655 tggtaaatatcctgaagatatggtggaatggtatggcacctatctgaatg    606
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         605 gtctggattttgttcagcctggtgatatggaactgattcagcagccaggt    556
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         555 gattttctgggcattaactattatacccgtagcantattcgcagcaccaa    506
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         505 tgatgcaagcctgctgcaagttgaacaggttcacatggaagaaccggtta    456
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         455 ccgatatgggttgggaaattcatccggaaagcttctataaactgctgacc    406
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         405 cgcattgaaaaagattttagcaaaggtctgccgatcctgattaccgaaaa    356
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         355 tggtgcagcaatgcgtgatgaactggttaatggtcagatcgaagataccg    306
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         305 gtcgtcatggttatattgaagaacatctgaaagcctgccaccgctttatc    256
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         255 gaagaaggtggccagctgaaaggttattttgtttggagctttctggataa    206
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         205 ctttgaatgggcatggggttatagcaaacgttttggtattgtccacatca    156
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         155 actatgaaacccaagaacgcaccccgaaacagagcgcactgtggtttaaa    106
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term         105 caaangatggccaaannnnnnnnnggcagcctcgagcaccaccaccacca     56
+
+49_T7              1 --------------------------------------------------      0
+                                                                       
+7_T7term          55 ccactgagantccggcngnnnncnnanccnnnnnnngnnnnnnnnnnnnn      6
+
+49_T7              1 ----nnnnnnnnnnnnnnnnnnncnnnntnnnnnnnntttgtttaacttt     46
+                                                                       
+7_T7term           5 nnnnn---------------------------------------------      1
+
+49_T7             47 aagaaggagatatacatatgagcgagaacacctnnnntntttccggcaac     96
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7             97 ctttatgtggggcaccagcaccagcagctatcagattgaaggtggcaccg    146
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            147 atgaaggtggtcgnaccccgagcatttgggataccttttgtcagattccg    196
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            197 ggtaaagttattggtggtgattgtggtgatgttgcctgtgatcnttttca    246
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            247 ccantttaaagaagatgtgcagctgatgaaacagctgggttttctgcatt    296
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            297 atcgttttagcgttgcatggcctcgtattatgcctgcagcaggtnttatc    346
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            347 aatgaagagggtctgctgttttatgagcatctgctggatganattganct    396
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            397 ggcaggtctgattccgatgctgaccctgtatcattgggatctgccgcagt    446
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            447 ggattgaagatgaaggcgggttggacccagcgtgaaaccattcagcattt    496
+                                                                       
+7_T7term           0 --------------------------------------------------      1
+
+49_T7            497 tcaaaaaccctatgccagcgtttaatcatgg    527
+                                                    
+7_T7term           0 -------------------------------      1
+
+
+#---------------------------------------
+#
+# Conflicts:           49_T7        7_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

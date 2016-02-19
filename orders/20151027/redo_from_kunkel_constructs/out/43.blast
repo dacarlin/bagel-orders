@@ -1,0 +1,61 @@
+BLASTN 2.2.31+
+
+
+Query= 43_T7 Sample_Name=43_T7 Chromat_id=4693045 Read_id=4641287 Version=1
+Length=5
+
+Length=894
+
+Subject= BglB
+
+Length=1348
+
+
+ Score = 337 bits (182),  Expect = 4e-96
+ Identities = 329/398 (83%), Gaps = 18/398 (5%)
+ Strand=Plus/Plus
+
+Query  482   GCAAG-AGAACA-ATTCACAAGGTAGAACC-GATAAAGATAAGGGT--AAAAATTCATCC  536
+             |||||  |||||  |||||| || |||||| | ||  |||| ||||    ||||||||||
+Sbjct  927   GCAAGTTGAACAGGTTCACATGGAAGAACCGGTTACCGATATGGGTTGGGAAATTCATCC  986
+
+Query  537   GAAAAACTTATATAAACT-CTAACCAGCATT-AATAAGATTTTAGC-AAGGTCTGCCAAT  593
+             | ||| ||| |||||||| || ||| ||||| || ||||||||||| |||||||||| ||
+Sbjct  987   GGAAAGCTTCTATAAACTGCTGACCCGCATTGAAAAAGATTTTAGCAAAGGTCTGCCGAT  1046
+
+Query  594   CCTAAATACCGAAAATGGTGCAGCAATAAGTGATAAA-TGGTT-ATGGTCAGAAAGTAGA  651
+             ||| | |||||||||||||||||||||  ||||| || ||||| |||||||||  | |||
+Sbjct  1047  CCTGATTACCGAAAATGGTGCAGCAATGCGTGATGAACTGGTTAATGGTCAGATCGAAGA  1106
+
+Query  652   TACCGGTCGTCATGGTAATAAAGAAGAACATAAGAAAGAAA-CCAACGCATTAA-GAAGA  709
+             |||||||||||||||| |||  |||||||||  |||||    ||| ||| |||  |||||
+Sbjct  1107  TACCGGTCGTCATGGTTATATTGAAGAACATCTGAAAGCCTGCCACCGCTTTATCGAAGA  1166
+
+Query  710   AGGTGGCCAGCTGAAAGGTTATTTTGTTAGGAT-TTTATGGATAACTTTGAATGGGATTG  768
+             |||||||||||||||||||||||||||| |||  ||| ||||||||||||||||||  ||
+Sbjct  1167  AGGTGGCCAGCTGAAAGGTTATTTTGTTTGGAGCTTTCTGGATAACTTTGAATGGGCATG  1226
+
+Query  769   GGG-TATAGCAAACGTATTA-TATAGTCCACATAAACTATGAAACCAAAG-ACACACAAC  825
+             ||| |||||||||||| ||  ||| |||||||| |||||||||||| ||| || |||  |
+Sbjct  1227  GGGTTATAGCAAACGTTTTGGTATTGTCCACATCAACTATGAAACCCAAGAACGCACCCC  1286
+
+Query  826   GAAAACAGAGCGCACTA-GGTTTaaaaaaaTGATGGCC  862
+             | ||||||||||||||  |||||||| |||||||||||
+Sbjct  1287  G-AAACAGAGCGCACTGTGGTTTAAACAAATGATGGCC  1323
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1176135
+
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5

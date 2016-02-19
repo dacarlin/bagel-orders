@@ -1,0 +1,235 @@
+########################################
+# Program: merger
+# Rundate: Fri 12 Feb 2016 11:18:11
+# Commandline: merger
+#    -asequence reads/44_T7_Plate_Plate02_D06.seq
+#    -bsequence reads/42_T7term_Plate_Plate01_D06.seq
+#    -sreverse2
+#    -outfile out/D06.merger
+#    -outseq out/D06.fasta
+# Align_format: simple
+# Report_file: out/D06.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 44_T7
+# 2: 42_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 2402
+# Identity:       1/2402 ( 0.0%)
+# Similarity:     0/2402 ( 0.0%)
+# Gaps:        2401/2402 (100.0%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+44_T7              1 nnnnnnnnnnnnnnnttnnnnnnctnnnnnanttttgtttaactttaaga     50
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7             51 aggagatatacatatgagcgagaacacctttatctttccggcaaccttta    100
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            101 tgtggggcaccagcaccagcagctatcagattgaaggtggcaccgatgaa    150
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            151 ggtggtcgtaccccgagcatttgggataccttttgtcagattccgggtaa    200
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            201 agttattggtggtgattgtggtgatgttgcctgtgatcattttcaccact    250
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            251 ttaaagaagatgtgcagctgatgaaacagctgggttttctgcattatcgt    300
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            301 tttagcgttgcatggcctcgtattatgcctgcagcaggtattatcaatga    350
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            351 agagggtctgctgttttatgagcatctgctggatgaaattgaactggcag    400
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            401 gtctgattccgatgctgaccctgtatcattgggatctgccgcagtggatt    450
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            451 gaagatgaaggcggttggacccagcgtgaaaccattcagcatttcaaaac    500
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            501 ctatgccagcgttatcatggatcgttttggtgaacgtattaattggtgga    550
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            551 acaccatcaatgaaccgtattgtgcaagcattctgggttatggcaccggt    600
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            601 gaacatgcaccgggtcatgaaaattggcgtgaagcatttaccgcagcaca    650
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            651 tcatattctgatgtgtcatggtattgcaagcaacctgcataaagaaaaag    700
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            701 gtctgaccggtaaaattggcattaccctgaatatggaacatgttgatgca    750
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            751 gcaagcgaacgtccggaagatgttgccgcagcaattcgtcgtgatggttt    800
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            801 tatcaatcgttggtttgcagaaccgctgttcaatggtaaatatcctgaag    850
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            851 atatggtggaatggtatggcacctatctgaatggtaacgattttgttcag    900
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            901 cnnggnnannnggaactgattcagcagccagggnattttctgggcattaa    950
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7            951 ctattataccngtagcattattcnnnnnaccaatgatgcaagcctgctgc   1000
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1001 aagttgaacaggttcnntnggaannaacnggttaccnnnnnggnttnggn   1050
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1051 aantnnnnccggaannnnnnnnaannnnnnnnnnccnncattnaaannna   1100
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1101 tttnnnnaangnnnnnnnnannnngatnncnnaanngggnncnnannnnn   1150
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1151 nnnnnnnnngnttnnggncnnnnnnaanancccgnnnnnnnngnnnntnn   1200
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1201 naannnnnnnnaannntnccnnnnntnnnnnaannnnnnnccnnaaangt   1250
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1251 nnttttnnnnnnnncnnnnnnnnnnnnnnnnnggnnnnnnnnnnntttnn   1300
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1301 nnnnnnnnnnnnnnnnnnnnnnnncncccnnaannngnnnnnnnnnaann   1350
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1351 nnnnnnatnnnnnnnnngnnnccnactnnngnnnnnntnnnnnnnnnnnn   1400
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1401 ntnngnnnannnnnnnnntnncccnnnnnnnnntnnnnnnnnnnntannn   1450
+                                                                       
+42_T7term        920 --------------------------------------------------    921
+
+44_T7           1451 nnnncnnnnnnnnnnnnnntnnnnnnnnnnnnn-----------------   1483
+                                                                       
+42_T7term        920 --------------------------------nnncattgcannnctgnn    903
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        902 natncagacnncnnnttggnnnnaaanctnntaggnnancnnagnnatnn    853
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        852 ttgnnnnntnnnnngnnnnncnnnncncnantcgnntnaactncanaann    803
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        802 nnnngtnnngatnnnnatgccttnngnntgtnnacgttgttcannngttn    753
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        752 ngaagataatttgttnnngnnntccggnnngggaaaannnngtgttcagt    703
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        702 nnccgatgatgntncncgtatgaagaaatgaaaattngnatgctgnntgg    653
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        652 tagccatcnngcactgannnntctgggttttctgaaaggntnncgttttg    603
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        602 tgcatgaaaccatgaacgatccgctgnntgttgcctatatgcgtgcatat    553
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        552 atggatctggatgtgaccccgaatctggctccggttccgggtattgatct    503
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        502 gaccgattatnncagaccctggttgatcgttttagcaatcaggcaattgc    453
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        452 agatcagctggaacgtgtttgtagtgatggtagcagcaaatttcctaaat    403
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        402 ttaccgttccgacaattaatcgtctgattgcagatggtcgtgaaaccgaa    353
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        352 cgtgcagcactggttgttgcancatgggaactgtatctgaaaggcgttga    303
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        302 tgaaaatggtgtgagctataccattcctgatccgcgtgcagaattttgtc    253
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        252 agggtctggtttcagatgatgcactgattagccagcgnctgctggcagtt    203
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        202 gaagaaatttttggcaccgcaattccgaatagtccggaatttgttgccgc    153
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        152 atttgaacgttgttatggtagcctgcgtgataatggtgttaccaccaccc    103
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term        102 tgaaacatctgctgaaaanncntgtnggtagcctcgagcaccaccaccac     53
+
+44_T7           1484 --------------------------------------------------   1483
+                                                                       
+42_T7term         52 caccactgagatccggctgntaacnnnnnnnnnnnnnnnnnnnnnnnnnn      3
+
+44_T7           1484 --   1483
+                       
+42_T7term          2 nn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           44_T7       42_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

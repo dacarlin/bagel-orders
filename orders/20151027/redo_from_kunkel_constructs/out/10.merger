@@ -1,0 +1,139 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:51
+# Commandline: merger
+#    -asequence reads/10_T7_Plate_Plate02_B02.seq
+#    -bsequence reads/10_T7term_Plate_Plate01_A10.seq
+#    -sreverse2
+#    -outfile out/10.merger
+#    -outseq out/10.fasta
+# Align_format: simple
+# Report_file: out/10.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 10_T7
+# 2: 10_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1249
+# Identity:       1/1249 ( 0.1%)
+# Similarity:     0/1249 ( 0.0%)
+# Gaps:        1248/1249 (99.9%)
+# Score: -1.0
+# 
+#
+#=======================================
+
+10_T7              1 nnnnn---------------------------------------------      5
+                                                                       
+10_T7term       1245 ----nnnnnnntnnnnnnnnnnnnncnnnggnncnnnnnnnnnnnnnnna   1200
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term       1199 nnnnnannnaannncnnnnnnctccnnnnncccgnnttnnnnnnnnggna   1150
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term       1149 ancnnnnnnnnccagctnnnnttnnnnnnnngnccanncncngggnnnnn   1100
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term       1099 nnngntttnnnnnntnggcgnccnnggtggnttttnntttncccnanngn   1050
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term       1049 gacgggcnaacagctgattgnccttcaccgcctngnccnnngngagttgn   1000
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        999 nncaagcggtccacgctggnttgnccccagcatgcttgcacaanacngga    950
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        949 tcattgatggtggaanaccancaatgaaccgtattgtgcaagcattctgg    900
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        899 gttatggcaccggtgaacatgcaccgggtcatgaaaattggcgtgaagca    850
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        849 tttaccgcagcacatcatattctgatgtgtcatggtattgcaagcaacct    800
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        799 gcataaagaaaaaggtctgaccggtaaaattggcattaccctgaatatgg    750
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        749 aacatgttgatgcagcaagcgaacgtccggaagatgttgccgcagcaatt    700
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        699 cgtcgtgatggttttatcaatcgttggtttgcagaaccgctgttcaatgg    650
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        649 taaatatcctgaagatatggtggaatggtatggcacctatctgaatggtc    600
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        599 tggattttgttcagcctggtgatatggaactgattcagcagccaggtgat    550
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        549 tttctgggcattaactattatacccgtagcattattcgcagcaccaatga    500
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        499 tgcaagcctgctgcaagttgaacaggttcacatggaagaaccggttaccg    450
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        449 atatgggttgggaaattcatccggaaagcttctataaactgctgacccgc    400
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        399 attgaaaaagattttagcaaaggtctgccgatcctgattaccgaaaatgg    350
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        349 tgcagcaatgcgtgatgaactggttaatggtcagatcgaagataccggtc    300
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        299 gtcatggttatattgaagaacatctgaaagcctgccaccgctttatcgaa    250
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        249 gaaggtggccagctgaaaggttattttgtttggagctttctggataactt    200
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        199 tgaatgggcatggggttatagcaaacgttttggtattgtccacatcaact    150
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term        149 atgaaacccaagaacgcaccccgaaacagagcgcactgtggtttaaacaa    100
+
+10_T7              6 --------------------------------------------------      5
+                                                                       
+10_T7term         99 atgatggccaaaaannnnttcggcagcctcgagcaccaccaccaccacca     50
+
+10_T7              6 -------------------------------------------------      5
+                                                                      
+10_T7term         49 ctgagatccggctgctaacnaannnnnnnnnnnnannnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           10_T7       10_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

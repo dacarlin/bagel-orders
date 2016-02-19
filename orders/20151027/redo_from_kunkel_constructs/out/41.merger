@@ -1,0 +1,199 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:52
+# Commandline: merger
+#    -asequence reads/41_T7_Plate_Plate02_A06.seq
+#    -bsequence reads/41_T7term_Plate_Plate01_D05.seq
+#    -sreverse2
+#    -outfile out/41.merger
+#    -outseq out/41.fasta
+# Align_format: simple
+# Report_file: out/41.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 41_T7
+# 2: 41_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1991
+# Identity:       3/1991 ( 0.2%)
+# Similarity:     2/1991 ( 0.1%)
+# Gaps:        1986/1991 (99.7%)
+# Score: 5.0
+# 
+#
+#=======================================
+
+41_T7              1 nnnnnnnnnnnnnngnnnnnnnnnnnntcnnnnctagaaatnaattttgt     50
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7             51 ttaactttaagaaggagatatacatatgaaactgaacaaacagnaatctg    100
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            101 acccagctggcaccggaagttaaactgcctgcatataccctggcagatac    150
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            151 ccgtcagggtattgcacatattggtgttggtggttttcatcgtgcacatc    200
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            201 aggcatattataccgatgcactgatgaatacaggtgaaggtctggattgg    250
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            251 agcatttgcggtgttggtctgcgtagcgaagatcgtaaagcacgtgatga    300
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            301 tctggcaggtcaggattacctgtttaccctgtatgaactgggcgataccg    350
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            351 atgataccgaagttcgtgttattggtagcattagcgatatgctgctggca    400
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            401 gaagatagcgcacaggcactgattgataaactggcaagtccggaaattcg    450
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            451 tattgttagcctgaccattaccgcgggtggttattgtattgatgatagca    500
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            501 acggtgaatttatggcacatctgccgcagattcagcacgatctggcacat    550
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            551 ccgagcagcccgaaaaccgtttttggttttatttgtgcagcactgacaca    600
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            601 gcgtcgtgcagcaggtattccggcatttaccgttatgagctgtgataacc    650
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            651 tgcccgcataatggtgcagttacccgtaaagccctgctggcatttgcagc    700
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            701 cctgcataatgcanaaactgcatgattggattaaagcccatgttagcctt    750
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            751 ccgaaatgcantggntgatcgtattaccccgatgacnagcaccgcacatc    800
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            801 gnctgcaacngcatgacgaacatggtattgatgatgncatgggcctgntg    850
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            851 ttntgaacccgtttgttcagngggttnctggnagaataaatttgttaatg    900
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            901 ggncgtcccggnatgggaaanaagtngnnnnncnnntttnncnnatnnnn    950
+                                                                       
+41_T7term       1011 --------------------------------------------------   1012
+
+41_T7            951 nntnanncccnnnnnnnnnaagnaaannnnaaaan---------------    985
+                                                   ..||                
+41_T7term       1011 ------------------------------nnaannnnnnnnnnnnnnnt    992
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        991 nnnnnntnnnnntttgnnnncgnnnnnnnccnnnnatnngnngntnnncn    942
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        941 gnaannnannnncanttgnnnccnncatnnncaannnnnannannnnnna    892
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        891 aannnccnnttannntncgnaacnaannnngannntattnnccgannnnc    842
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        841 agnnccncnnancgtntnnactgcatgannancnngtatnatnnnncatg    792
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        791 gcctnnngtttgtgnaccnntgttcanngngnctggaagataaattgnna    742
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        741 atggnnnccggcatgggaaaaannnggtgttcagtttaccgatgatgtta    692
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        691 nccgtatgaagaaatgaaannngtctgctgaanngtagccatctggcact    642
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        641 gacctatctgggttttctgaaaggntntcgttttgtgcatgaaaccatga    592
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        591 acgatccgctgtttgttgcctatatgcgtgcatatatggatctggatgtg    542
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        541 accccgaatctggctccggttccgggtattgatctgaccgattataaaca    492
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        491 gaccctggttgatcgttttagcaatcaggcaattgcagatcagctggaac    442
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        441 gtgtttgtagtgatggtagcagcaaatttcctaaatttaccgttccgaca    392
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        391 attaatcgtctgattgcagatggtcgtgaaaccgaacgtgcagcactggt    342
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        341 tgttgcagcatgggcactgtatctgaaaggcgttgatgaaaatggtgtga    292
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        291 gctataccattcctgatccgcgtgcagaattttgtcagggtctggtttca    242
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        241 gatgatgcactgattagccagcgtctgctggcagttgaagaaatttttgg    192
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        191 caccgcaattccgaatagtccggaatttgttgccgcatttgaacgttgtt    142
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term        141 atggtagcctgcgtgataatggtgttaccaccaccctgaaacatctgctg     92
+
+41_T7            986 --------------------------------------------------    985
+                                                                       
+41_T7term         91 aaaannannngttggtagcctcgagcaccaccaccaccnccactgagatc     42
+
+41_T7            986 -----------------------------------------    985
+                                                              
+41_T7term         41 cggctgctnncnnnannccgnnnnnnnnnnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           41_T7       41_T7term
+#              position base   position base Using
+# 
+#
+#---------------------------------------

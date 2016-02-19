@@ -1,0 +1,200 @@
+########################################
+# Program: merger
+# Rundate: Mon 15 Feb 2016 10:43:54
+# Commandline: merger
+#    -asequence reads/87_T7_Plate_Plate02_G11.seq
+#    -bsequence reads/87_T7term_Plate_Plate01_H03.seq
+#    -sreverse2
+#    -outfile out/87.merger
+#    -outseq out/87.fasta
+# Align_format: simple
+# Report_file: out/87.merger
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 87_T7
+# 2: 87_T7term
+# Matrix: EDNAFULL
+# Gap_penalty: 50.0
+# Extend_penalty: 5.0
+#
+# Length: 1496
+# Identity:     179/1496 (12.0%)
+# Similarity:   172/1496 (11.5%)
+# Gaps:        1177/1496 (78.7%)
+# Score: 146.0
+# 
+#
+#=======================================
+
+87_T7              1 nnnnnnnnnnnnnnnnnnntnnnnnntnnnaaannnntttgtttaacttt     50
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7             51 aagaaggagatatacatatgagcgagaacacctttatctttccggcaacc    100
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            101 tttatgtggggcaccagcaccagcagctatcagattgaaggtggcaccga    150
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            151 tgaaggtggtcgtaccccgagcatttgggataccttttntcagattccgg    200
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            201 gtaaagttattggtggtgattgtggtgatgttgcctgtgatcattttcac    250
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            251 cactttaaagaagatgtgcagctgatgaaacagctgggttttctgcatta    300
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            301 tcgttttagcgttgcatggcctcgtattatgcctgcagcaggtattatca    350
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            351 atgaagagggtctgctgttttatgagcatctgctggatgaaattgaactg    400
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            401 gcaggtctgattccgatgctgaccctgtatcattgggntctgccgcagng    450
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            451 gantgaagatgaaggcggttggacccagcgtgaaaccattcagcatttca    500
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            501 aaacctatngccagcgttatcatggatcgttttgnngaacgtattaattg    550
+                                                                       
+87_T7term        898 --------------------------------------------------    899
+
+87_T7            551 gtggaacaccatcaatgaaccgtattgtgcaagcattctgggttatggca    600
+                                                                 ......
+87_T7term        898 --------------------------------------------nnnnnn    893
+
+87_T7            601 ccnggtgaacatgcaccgngtcatgaaaat-nggcgtgaagcatttaccg    649
+                     .| ........|.....| ||||||.||||  |.|...|||..|||..|.
+87_T7term        892 nccnnnnnnngtnnnntgggtcatgnaaatangncnnnaagactttcacc    843
+
+87_T7            650 cagc--acatcatattctgatgtgtcatggtattgcaagcaacctgcata    697
+                     ||||  ........|...............|||||||||....|.|||||
+87_T7term        842 cagccnnnncnnnttnngnnnnnnnnnnnntattgcaagnnnncngcata    793
+
+87_T7            698 aagaaaanggtctgaccgggnaaaattggcattaccctgaatatgggaac    747
+                     ||||||| .|.|...||||.   ||.|||||.|..|||||||||||.|..
+87_T7term        792 aagaaaaangncnnnccggtn--aantggcantnncctgaatatggnann    745
+
+87_T7            748 atgtnatgcagcagcgaacgtcnnnaaganngttgccgcagcaattcgnc    797
+                     ...| ||||||||....|....   .|..  |||...||||||||||| |
+87_T7term        744 tgttgatgcagcaagcgaacgtccggaagnagttnnngcagcaattcgtc    695
+
+87_T7            798 gtgatggntttatcaatcgttgggnnggcagaaccgctgttcaatggnaa    847
+                     ||||||| ||..|||||||||||.  |.....| |||||||..|||| ||
+87_T7term        694 gtgatgg-ttnntcaatcgttggtttgnnncna-cgctgttnnatggtaa    647
+
+87_T7            848 natccctgaagnnat-gnngaanngtatngcacctatctga--nnncngn    894
+                      ...|||||||  || |  |.|  |.|| |...||||||||     | . 
+87_T7term        646 atatcctgaagntatggtggnatggnatggnnactatctgaatggtcnng    597
+
+87_T7            895 nnntngtncagcnngnnnatatg---------------------------    917
+                        | |. .|||  |   |||||                           
+87_T7term        596 antttgnnnagcctggtgatatggnantgattcagcagccaggtgatttt    547
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        546 ctgggcattaactattantnnngtagcattattcgcagcaccaatgatgc    497
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        496 nngcctgctgcaagttgaacaggttcacatggnngaaccggttaccgata    447
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        446 tgggtaaagaaattcatccggaaagcttctataaactgctgacccgcatt    397
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        396 gaaaaagattttagcaaaggtctgnngatcctgattancgaaaatggtgc    347
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        346 agcaatgcgtgatgaactggttaatggtcaganngaagatnncggtcgtc    297
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        296 atggttatattgaagnacatctgaaagnntgncanngctttatcgaagaa    247
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        246 ggtggnnagnngnaangttattttgtttggagctttctggntnnctttga    197
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        196 atgggcatggggttatagcaaacgttttggtattgtccacatcaactatg    147
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term        146 aaacccaagncgcaccccganacagagcgcactgtggnntaaacaaatga     97
+
+87_T7            918 --------------------------------------------------    917
+                                                                       
+87_T7term         96 tggccnnnannngtnnnnncagnctcgagcaccaccaccnccccccantg     47
+
+87_T7            918 ----------------------------------------------    917
+                                                                   
+87_T7term         46 agatcncgnnnncnaannannnncnnaannnannnnnnnnnnnnnn      1
+
+
+#---------------------------------------
+#
+# Conflicts:           87_T7       87_T7term
+#              position base   position base Using
+#                   611  'A'         17  'g'   'A'
+#                   617  'C'         23  't'   'C'
+#                   631  '.'         37  'a'   '.'
+#                   641  'C'         48  'a'   'C'
+#                   642  'A'         49  'c'   'A'
+#                   646  'A'         53  'c'   'A'
+#                   647  'C'         54  'a'   'C'
+#                   649  'G'         56  'c'   'G'
+#                   654  '.'         61  'c'   '.'
+#                   654  '.'         62  'n'   '.'
+#                   657  'T'         66  'c'   'T'
+#                   661  'A'         70  't'   'A'
+#                   665  'T'         74  'g'   'T'
+#                   717  'G'        126  't'   'G'
+#                   719  'A'        128  '.'   'A'
+#                   720  'A'        128  '.'   'A'
+#                   748  'A'        155  't'   'A'
+#                   749  'T'        156  'g'   'T'
+#                   750  'G'        157  't'   'G'
+#                   761  'g'        168  'A'   'A'
+#                   762  'c'        169  'G'   'G'
+#                   763  'g'        170  'C'   'C'
+#                   764  'a'        171  'G'   'G'
+#                   766  'c'        173  'A'   'A'
+#                   767  'g'        174  'C'   'C'
+#                   768  't'        175  'G'   'G'
+#                   769  'c'        176  'T'   'T'
+#                   773  'a'        180  'G'   'G'
+#                   775  'g'        182  'A'   'A'
+#                   776  'a'        183  'G'   'G'
+#                   805  'N'        212  '.'   'N'
+#                   821  'g'        227  'T'   'T'
+#                   828  'G'        234  'c'   'G'
+#                   831  'C'        237  '.'   'C'
+#                   849  'a'        254  'T'   'T'
+#                   850  't'        255  'A'   'A'
+#                   851  'c'        256  'T'   'T'
+#                   863  '.'        268  'G'   'G'
+#                   879  'C'        285  'a'   'C'
+#                   888  '.'        294  'A'   'A'
+#                   888  '.'        295  'T'   'T'
+# 
+#
+#---------------------------------------
