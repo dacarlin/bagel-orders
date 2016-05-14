@@ -1,0 +1,10 @@
+mutant_label,oligo_label,sequence,scale,purification
+q19p,q19p,gccaccttcaatcggatagctgctggt,25nm,standard
+w407k,w407k,ataaccccatgctttttcaaagttatc,25nm,standard
+n163s,n163s,acaatacggttcgctgatggtgttcca,25nm,standard
+h315r,h315r,cggttcttccatacgaacctgttcaac,25nm,standard
+w407y,w407y,ataaccccatgcatattcaaagttatc,25nm,standard
+y294l,y294l,gctacgggtatacaggttaatgcccag,25nm,standard
+v320q,v320q,acccatatcggtctgcggttcttccat,25nm,standard
+a227w,a227w,cggacgttcgctccatgcatcaacatg,25nm,standard
+s32l,s32l,ggtatcccaaatcagcggggtacgacc,25nm,standard
