@@ -1,0 +1,17 @@
+mutant_label,oligo_label,sequence,scale,purification
+F152E,F152E,aatacgttcaccttcacgatccatgat,25nm,standard
+R239W,R239W,aaaaccatcacgccaaattgctgcggc,25nm,standard
+P165A,P165A,gcttgcacaatacgcttcattgatggt,25nm,standard
+W120R,W120R,ctgcggcagatcacgatgatacagggt,25nm,standard
+W407H,W407H,ataaccccatgcatgttcaaagttatc,25nm,standard
+H119C,H119C,cggcagatcccagcaatacagggtcag,25nm,standard
+N220H,N220H,aacatgttccatatgcagggtaatgcc,25nm,standard
+S344A,S344A,cggcagacctttcgcaaaatctttttc,25nm,standard
+M10Q,M10Q,gctggtgccccactgaaaggttgccgg,25nm,standard
+L171N,L171N,ggtgccataaccgttaatgcttgcaca,25nm,standard
+I20C,I20C,ggtgccaccttcgcactgatagctgct,25nm,standard
+H178W,H178W,atgacccggtgcccattcaccggtgcc,25nm,standard
+A306N,A306N,ttgcagcaggctgttatcattggtgct,25nm,standard
+N220Y,N220Y,aacatgttccatatacagggtaatgcc,25nm,standard
+H328N,H328N,gaagctttccgggttaatttcccaacc,25nm,standard
+T175H,T175H,tgcatgttcaccatggccataacccag,25nm,standard
