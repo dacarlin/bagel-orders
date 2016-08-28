@@ -1,0 +1,20 @@
+name,student
+A404E	Michael 
+F152E	Michael 
+G313N	Michael 
+R239W	Michael 
+P165A	Willy
+W120R	Willy
+W407H	Willy
+H119C Michelle
+N220H Michelle
+S344A Michelle 
+M10Q  Alex
+L171N Alex
+I20C  Alex
+H178W Danny
+A306N Danny
+A221N Danny 
+N220Y David
+H328N David
+T175H David 
